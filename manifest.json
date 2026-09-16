@@ -1,52 +1,22 @@
 [
   {
-    "id": "4e36bb48-6878-440f-bddf-f928143d8f91-r_index-2026-09-15T15:00:00.000Z",
-    "show_title": "REMIXTAPE1",
-    "artist_name": "C. Gia",
+    "id": "8cb7f7d9-41da-4471-8552-a46c7aaf9a70",
+    "show_title": "INTERNET LIBERO !",
+    "artist_name": "Kuzu",
     "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d44cc7c2-fbb0-4b83-b904-4581f3657d31/2026-09-08T08:21:20.946Z-1024x1024.jpg",
-    "start_iso": "2026-09-15T17:00:00+02:00",
-    "end_iso": "2026-09-15T18:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e4b2081f-400c-42d7-8a23-d2c949179040/2026-09-12T09:58:42.440Z-1024x1024.jpg",
+    "start_iso": "2026-09-16T17:00:00+02:00",
+    "end_iso": "2026-09-16T18:00:00+02:00",
     "image_filename": "story_1700.png"
   },
   {
-    "id": "9dcb4cd0-b941-4c16-8ead-0a00c4a92db2-r_index-2026-09-15T16:00:00.000Z",
-    "show_title": "PUSSY NOISE",
-    "artist_name": "cyborgpussywitch",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/3c7ce267-36ad-47c1-a558-d13214c8aafe/2026-09-08T08:24:09.772Z-1024x1024.jpg",
-    "start_iso": "2026-09-15T18:00:00+02:00",
-    "end_iso": "2026-09-15T19:00:00+02:00",
+    "id": "8db316f0-f1fc-4e3c-a99c-c97c1ed27f8c-r_index-2026-09-16T16:00:00.000Z",
+    "show_title": "ECLECDIGS",
+    "artist_name": "Brett Eclectic",
+    "time_str": "18:00 - 20:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e6656007-ba0a-4ecd-aded-8e549f4036a8/2026-09-08T08:43:53.908Z-1024x1024.jpg",
+    "start_iso": "2026-09-16T18:00:00+02:00",
+    "end_iso": "2026-09-16T20:00:00+02:00",
     "image_filename": "story_1800.png"
-  },
-  {
-    "id": "1900af5e-d478-4e56-9083-0445c01ea85f-r_index-2026-09-15T17:00:00.000Z",
-    "show_title": "EMERAI PRES IRKA",
-    "artist_name": "NDSTPS",
-    "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/4663d228-328f-4965-9dcd-e5c944d6f327/2026-09-14T09:55:58.691Z-1024x1024.jpg",
-    "start_iso": "2026-09-15T19:00:00+02:00",
-    "end_iso": "2026-09-15T20:00:00+02:00",
-    "image_filename": "story_1900.png"
-  },
-  {
-    "id": "2d987537-598d-4239-b5ea-408fac4c12f0-r_index-2026-09-15T19:00:00.000Z",
-    "show_title": "MAI DORMIRE",
-    "artist_name": "Sleepy",
-    "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/99f9c092-5de4-4c79-a2d7-1e2008927860/2026-09-08T08:26:03.719Z-1024x1024.jpg",
-    "start_iso": "2026-09-15T21:00:00+02:00",
-    "end_iso": "2026-09-15T22:00:00+02:00",
-    "image_filename": "story_2100.png"
-  },
-  {
-    "id": "00f69cc9-155c-4296-85ff-e42556a37e0f-r_index-2026-09-15T20:00:00.000Z",
-    "show_title": "VAGUE STATE",
-    "artist_name": "STRATA",
-    "time_str": "22:00 - 23:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/53de228c-679c-4026-874f-e01047ebe5b2/2026-09-08T08:27:10.520Z-1024x1024.jpg",
-    "start_iso": "2026-09-15T22:00:00+02:00",
-    "end_iso": "2026-09-15T23:00:00+02:00",
-    "image_filename": "story_2200.png"
   }
 ]
