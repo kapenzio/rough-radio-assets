@@ -1,62 +1,52 @@
 [
   {
-    "id": "0aba08fa-a258-4824-a51b-daa546a689e6",
-    "show_title": "PANMEDITERRANEAN MIXING",
-    "artist_name": "AmuniHabibi",
-    "time_str": "15:00 - 16:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d773a47b-d55c-4bf8-b0a4-eb3f48bbbbc1/2026-09-16T09:45:59.268Z-1024x1024.jpg",
-    "start_iso": "2026-09-17T15:00:00+02:00",
-    "end_iso": "2026-09-17T16:00:00+02:00",
-    "image_filename": "story_1500.png"
-  },
-  {
-    "id": "97fdd9a0-fcf9-49e9-b22d-ebe3b0f9ef31",
-    "show_title": "DMT SOUND EMULATOR",
-    "artist_name": "Dead Dancer",
-    "time_str": "16:00 - 17:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/f1f1145a-21c5-4443-8874-5685a34bf51c/2026-09-17T07:10:54.203Z-1024x1024.jpg",
-    "start_iso": "2026-09-17T16:00:00+02:00",
-    "end_iso": "2026-09-17T17:00:00+02:00",
-    "image_filename": "story_1600.png"
-  },
-  {
-    "id": "5230ac07-3bc2-418a-a060-c40deaa3f1a1",
-    "show_title": "DMT SOUND EMULATOR",
-    "artist_name": "Oltrefuturo",
+    "id": "4af5d4aa-4711-4a78-aa54-ec2331da7eaf-r_index-2026-09-18T15:00:00.000Z",
+    "show_title": "LIVE STREAMING @ L863 – DOUR HA MAEN",
+    "artist_name": "tabensi",
     "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/bc55a376-7dd2-4b79-afb8-b40324e1c12c/2026-09-17T07:10:47.726Z-1024x1024.jpg",
-    "start_iso": "2026-09-17T17:00:00+02:00",
-    "end_iso": "2026-09-17T18:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/6431da6e-53ee-47f7-a825-5c3901392a6f/2026-09-07T16:54:56.291Z-1024x1024.jpg",
+    "start_iso": "2026-09-18T17:00:00+02:00",
+    "end_iso": "2026-09-18T18:00:00+02:00",
     "image_filename": "story_1700.png"
   },
   {
-    "id": "8b4178ca-c942-42b3-8a08-5ec2720d34ed",
-    "show_title": "ALL LIUKK CAN EAT - FINOCCHI",
-    "artist_name": "LIUKK",
+    "id": "082e6481-932a-43f3-bc3a-af1a62836f16-r_index-2026-09-18T16:00:00.000Z",
+    "show_title": "LIVE STREAMING @ L863",
+    "artist_name": "Ulf Herold",
+    "time_str": "18:00 - 19:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5e243a1b-315e-4588-8f76-b48be707a95b/2026-09-07T16:55:51.529Z-1024x1024.jpg",
+    "start_iso": "2026-09-18T18:00:00+02:00",
+    "end_iso": "2026-09-18T19:00:00+02:00",
+    "image_filename": "story_1800.png"
+  },
+  {
+    "id": "b472bfd2-e874-4bfc-80fc-6719fab29b7a",
+    "show_title": "LIVE STREAMING @ L863",
+    "artist_name": "jira",
     "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/a18aab9c-a213-4ecc-a9e6-b725c9f94843/2026-09-08T11:33:33.538Z-1024x1024.jpg",
-    "start_iso": "2026-09-17T19:00:00+02:00",
-    "end_iso": "2026-09-17T20:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9d5d6316-2310-4889-9479-1b485fc502dc/2026-09-07T16:56:21.622Z-1024x1024.jpg",
+    "start_iso": "2026-09-18T19:00:00+02:00",
+    "end_iso": "2026-09-18T20:00:00+02:00",
     "image_filename": "story_1900.png"
   },
   {
-    "id": "1468f382-7ec8-41de-a6fa-0a1d5e34ea8c-r_index-2026-09-17T20:00:00.000Z",
-    "show_title": "ADEPTA ICONS",
-    "artist_name": "Nazareno [bassi]",
-    "time_str": "22:00 - 23:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5005eddc-85b5-4a08-b36f-47b91b4bf395/2026-09-14T08:47:28.402Z-1024x1024.jpg",
-    "start_iso": "2026-09-17T22:00:00+02:00",
-    "end_iso": "2026-09-17T23:00:00+02:00",
-    "image_filename": "story_2200.png"
+    "id": "85271e94-8ae9-4416-8705-1b3f9f530183-r_index-2026-09-18T19:00:00.000Z",
+    "show_title": "DISCO HOSPITAL",
+    "artist_name": "Arisu Neko",
+    "time_str": "21:00 - 22:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/92a13a05-5605-491d-9742-913deff286ce/2026-09-08T11:23:01.284Z-1024x1024.jpg",
+    "start_iso": "2026-09-18T21:00:00+02:00",
+    "end_iso": "2026-09-18T22:00:00+02:00",
+    "image_filename": "story_2100.png"
   },
   {
-    "id": "371e1fab-bd1f-4d65-bbf5-879c21453bf8",
-    "show_title": "SEARCH, SHARE, REPEAT.",
-    "artist_name": "Auto Lizii",
-    "time_str": "23:00 - 00:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/947ffbd9-1789-4bdc-9dca-5f7405b37120/2026-09-08T11:00:52.774Z-1024x1024.jpg",
-    "start_iso": "2026-09-17T23:00:00+02:00",
-    "end_iso": "2026-09-18T00:00:00+02:00",
-    "image_filename": "story_2300.png"
+    "id": "b5eec589-3cb3-459f-91f9-d53cac44a701",
+    "show_title": "LIVE FROM VINOS (NATURALES) – BERLIN",
+    "artist_name": "Sagan",
+    "time_str": "22:00 - 23:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cd22c60a-a210-4e68-ad90-571eac3cfe42/2026-09-14T18:17:05.646Z-1024x1024.jpg",
+    "start_iso": "2026-09-18T22:00:00+02:00",
+    "end_iso": "2026-09-18T23:00:00+02:00",
+    "image_filename": "story_2200.png"
   }
 ]
