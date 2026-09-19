@@ -1,52 +1,12 @@
 [
   {
-    "id": "4af5d4aa-4711-4a78-aa54-ec2331da7eaf-r_index-2026-09-18T15:00:00.000Z",
-    "show_title": "LIVE STREAMING @ L863 – DOUR HA MAEN",
-    "artist_name": "tabensi",
+    "id": "6558b357-bb0e-42cd-825c-cd9cc9c862ba",
+    "show_title": "LIVE STREAMING @ L863",
+    "artist_name": "monica witty",
     "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/6431da6e-53ee-47f7-a825-5c3901392a6f/2026-09-07T16:54:56.291Z-1024x1024.jpg",
-    "start_iso": "2026-09-18T17:00:00+02:00",
-    "end_iso": "2026-09-18T18:00:00+02:00",
+    "artwork_url": null,
+    "start_iso": "2026-09-19T17:00:00+02:00",
+    "end_iso": "2026-09-19T18:00:00+02:00",
     "image_filename": "story_1700.png"
-  },
-  {
-    "id": "082e6481-932a-43f3-bc3a-af1a62836f16-r_index-2026-09-18T16:00:00.000Z",
-    "show_title": "LIVE STREAMING @ L863",
-    "artist_name": "Ulf Herold",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5e243a1b-315e-4588-8f76-b48be707a95b/2026-09-07T16:55:51.529Z-1024x1024.jpg",
-    "start_iso": "2026-09-18T18:00:00+02:00",
-    "end_iso": "2026-09-18T19:00:00+02:00",
-    "image_filename": "story_1800.png"
-  },
-  {
-    "id": "b472bfd2-e874-4bfc-80fc-6719fab29b7a",
-    "show_title": "LIVE STREAMING @ L863",
-    "artist_name": "jira",
-    "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9d5d6316-2310-4889-9479-1b485fc502dc/2026-09-07T16:56:21.622Z-1024x1024.jpg",
-    "start_iso": "2026-09-18T19:00:00+02:00",
-    "end_iso": "2026-09-18T20:00:00+02:00",
-    "image_filename": "story_1900.png"
-  },
-  {
-    "id": "85271e94-8ae9-4416-8705-1b3f9f530183-r_index-2026-09-18T19:00:00.000Z",
-    "show_title": "DISCO HOSPITAL",
-    "artist_name": "Arisu Neko",
-    "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/92a13a05-5605-491d-9742-913deff286ce/2026-09-08T11:23:01.284Z-1024x1024.jpg",
-    "start_iso": "2026-09-18T21:00:00+02:00",
-    "end_iso": "2026-09-18T22:00:00+02:00",
-    "image_filename": "story_2100.png"
-  },
-  {
-    "id": "b5eec589-3cb3-459f-91f9-d53cac44a701",
-    "show_title": "LIVE FROM VINOS (NATURALES) – BERLIN",
-    "artist_name": "Sagan",
-    "time_str": "22:00 - 23:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cd22c60a-a210-4e68-ad90-571eac3cfe42/2026-09-14T18:17:05.646Z-1024x1024.jpg",
-    "start_iso": "2026-09-18T22:00:00+02:00",
-    "end_iso": "2026-09-18T23:00:00+02:00",
-    "image_filename": "story_2200.png"
   }
 ]
