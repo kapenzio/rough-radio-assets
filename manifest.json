@@ -1,12 +1,32 @@
 [
   {
-    "id": "6558b357-bb0e-42cd-825c-cd9cc9c862ba",
-    "show_title": "LIVE STREAMING @ L863",
-    "artist_name": "monica witty",
-    "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": null,
-    "start_iso": "2026-09-19T17:00:00+02:00",
-    "end_iso": "2026-09-19T18:00:00+02:00",
-    "image_filename": "story_1700.png"
+    "id": "df5b33bd-10cb-4339-8228-c43d51bd3caa",
+    "show_title": "EX AEQUA SHOWCASE – WATCH THE CARPET",
+    "artist_name": "SŕnaK",
+    "time_str": "21:00 - 22:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8f3a40d1-f897-4bfb-bcb2-2e2ce358cec0/2026-09-15T09:13:28.941Z-1024x1024.jpg",
+    "start_iso": "2026-09-20T21:00:00+02:00",
+    "end_iso": "2026-09-20T22:00:00+02:00",
+    "image_filename": "story_2100.png"
+  },
+  {
+    "id": "20821ce2-ba2e-498f-8d6f-7e53fe6e5509",
+    "show_title": "EX AEQUA SHOWCASE – MUSIQUE2FILM",
+    "artist_name": "Krimska",
+    "time_str": "22:00 - 23:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/a7ce668e-de66-45f0-8123-9429b2a0ae02/2026-09-15T09:22:38.503Z-1024x1024.jpg",
+    "start_iso": "2026-09-20T22:00:00+02:00",
+    "end_iso": "2026-09-20T23:00:00+02:00",
+    "image_filename": "story_2200.png"
+  },
+  {
+    "id": "ed7c5972-0b5e-4707-b67e-9dd8594c4412",
+    "show_title": "EX AEQUA SHOWCASE – JUST THE WAY YOU WANT",
+    "artist_name": "Clara",
+    "time_str": "23:00 - 00:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/41ed491c-877e-444f-8218-303b9066453c/2026-09-15T09:25:52.684Z-1024x1024.jpg",
+    "start_iso": "2026-09-20T23:00:00+02:00",
+    "end_iso": "2026-09-21T00:00:00+02:00",
+    "image_filename": "story_2300.png"
   }
 ]
