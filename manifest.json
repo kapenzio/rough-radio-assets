@@ -1,32 +1,52 @@
 [
   {
-    "id": "e6d7a703-a578-40a8-a262-d01bc42bce87-r_index-2026-09-21T15:00:00.000Z",
-    "show_title": "BLOODY QUEEAR #31 – SONGS FROM THE BOOK BY JAMES ROBERT BAKER BY REGRETFUL DEAD",
-    "artist_name": "TIM AND PETE",
+    "id": "a988c128-6d80-440a-9202-d3dbc1053067-r_index-2026-09-22T15:00:00.000Z",
+    "show_title": "SONIC ARTEFACTS",
+    "artist_name": "Missing Ear",
     "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/347689fc-41bc-4e0e-aa9e-b4402b9fbe33/2026-09-14T18:10:42.446Z-1024x1024.jpg",
-    "start_iso": "2026-09-21T17:00:00+02:00",
-    "end_iso": "2026-09-21T18:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/80e427cf-72f8-4711-8e76-3be9ae821d55/2026-09-14T18:19:32.583Z-1024x1024.jpg",
+    "start_iso": "2026-09-22T17:00:00+02:00",
+    "end_iso": "2026-09-22T18:00:00+02:00",
     "image_filename": "story_1700.png"
   },
   {
-    "id": "2bd9cc39-5c8b-40d1-abe6-2aca852729e3-r_index-2026-09-21T16:00:00.000Z",
-    "show_title": "ZRA PRES ACERVO DO GRAVE",
-    "artist_name": "Irmãos Metralha",
+    "id": "f74f88f6-99f5-426c-91c2-290cd2db8fd3-r_index-2026-09-22T16:00:00.000Z",
+    "show_title": "INNER LIGHT",
+    "artist_name": "C1aerii",
     "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/21c5a852-3f20-4dab-b9cd-950b016a894b/2026-09-21T06:55:44.028Z-1024x1024.jpg",
-    "start_iso": "2026-09-21T18:00:00+02:00",
-    "end_iso": "2026-09-21T19:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b574efb3-e358-4a5b-8c1c-1250a8a2e7db/2026-09-14T18:20:45.471Z-1024x1024.jpg",
+    "start_iso": "2026-09-22T18:00:00+02:00",
+    "end_iso": "2026-09-22T19:00:00+02:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "d25c503b-060a-4aab-afba-32b9e177b957-r_index-2026-09-21T17:00:00.000Z",
-    "show_title": "ABBRACCIO ZEROGRAVITY",
-    "artist_name": "ragazzaclan",
+    "id": "2ed55f86-fa0e-4a4d-9f98-7c88720733fb-r_index-2026-09-22T17:00:00.000Z",
+    "show_title": "NERODIFUMO",
+    "artist_name": "bzxz.domnyj",
     "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/fe22f589-3a05-4c75-84c5-e915e2b96eee/2026-09-14T18:16:43.510Z-1024x1024.jpg",
-    "start_iso": "2026-09-21T19:00:00+02:00",
-    "end_iso": "2026-09-21T20:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/1998a98d-4f7a-4ade-b85c-dbaba2f1a59b/2026-09-21T07:09:23.236Z-1024x1024.jpg",
+    "start_iso": "2026-09-22T19:00:00+02:00",
+    "end_iso": "2026-09-22T20:00:00+02:00",
     "image_filename": "story_1900.png"
+  },
+  {
+    "id": "72376311-2bec-4cb0-8b5e-5fe71622f796-r_index-2026-09-22T19:00:00.000Z",
+    "show_title": "PECORELETTRICHE",
+    "artist_name": "TACHELES",
+    "time_str": "21:00 - 22:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/1fc09831-dd38-40a3-8a94-19448e948c51/2026-09-14T18:25:04.933Z-1024x1024.jpg",
+    "start_iso": "2026-09-22T21:00:00+02:00",
+    "end_iso": "2026-09-22T22:00:00+02:00",
+    "image_filename": "story_2100.png"
+  },
+  {
+    "id": "25c1c18b-576c-4703-9d1b-0e1c93fabd5a-r_index-2026-09-22T21:00:00.000Z",
+    "show_title": "SOCIAL MACHINE PRES B4 CITY SOUNDS (1-YEAR ANNIVERSARY)",
+    "artist_name": "Snooz",
+    "time_str": "23:00 - 00:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c635a425-cc6a-4ab6-b36d-39ab92e87f76/2026-09-14T18:26:49.294Z-1024x1024.jpg",
+    "start_iso": "2026-09-22T23:00:00+02:00",
+    "end_iso": "2026-09-23T00:00:00+02:00",
+    "image_filename": "story_2300.png"
   }
 ]
