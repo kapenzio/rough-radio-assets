@@ -1,52 +1,52 @@
 [
   {
-    "id": "a988c128-6d80-440a-9202-d3dbc1053067-r_index-2026-09-22T15:00:00.000Z",
-    "show_title": "SONIC ARTEFACTS",
-    "artist_name": "Missing Ear",
+    "id": "3a56f084-c9b1-4abb-9010-2a2fa03e5c63-r_index-2026-09-23T13:00:00.000Z",
+    "show_title": "MERCURY'S MAGIC FLUTE",
+    "artist_name": "Lia Spadoni",
+    "time_str": "15:00 - 16:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d1612853-d82c-4d8e-838a-d1656809efef/2026-09-23T08:17:41.609Z-1024x1024.jpg",
+    "start_iso": "2026-09-23T15:00:00+02:00",
+    "end_iso": "2026-09-23T16:00:00+02:00",
+    "image_filename": "story_1500.png"
+  },
+  {
+    "id": "9668633b-7ebc-4331-a57d-12847b384cf4-r_index-2026-09-23T14:00:00.000Z",
+    "show_title": "TRAIN SELECTA",
+    "artist_name": "Rxxmer",
+    "time_str": "16:00 - 17:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/0739c769-e996-45b7-9e4a-37aa269518f3/2026-09-14T18:31:27.399Z-1024x1024.jpg",
+    "start_iso": "2026-09-23T16:00:00+02:00",
+    "end_iso": "2026-09-23T17:00:00+02:00",
+    "image_filename": "story_1600.png"
+  },
+  {
+    "id": "49ba25f6-a7d6-487f-b130-b03a69b62a07-r_index-2026-09-23T15:00:00.000Z",
+    "show_title": "SCANZONATISSIMA",
+    "artist_name": "FROUGE",
     "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/80e427cf-72f8-4711-8e76-3be9ae821d55/2026-09-14T18:19:32.583Z-1024x1024.jpg",
-    "start_iso": "2026-09-22T17:00:00+02:00",
-    "end_iso": "2026-09-22T18:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d3d4145f-5bb4-44c1-9e4d-f30ef921cc4c/2026-09-14T18:32:43.074Z-1024x1024.jpg",
+    "start_iso": "2026-09-23T17:00:00+02:00",
+    "end_iso": "2026-09-23T18:00:00+02:00",
     "image_filename": "story_1700.png"
   },
   {
-    "id": "f74f88f6-99f5-426c-91c2-290cd2db8fd3-r_index-2026-09-22T16:00:00.000Z",
-    "show_title": "INNER LIGHT",
-    "artist_name": "C1aerii",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b574efb3-e358-4a5b-8c1c-1250a8a2e7db/2026-09-14T18:20:45.471Z-1024x1024.jpg",
-    "start_iso": "2026-09-22T18:00:00+02:00",
-    "end_iso": "2026-09-22T19:00:00+02:00",
-    "image_filename": "story_1800.png"
-  },
-  {
-    "id": "2ed55f86-fa0e-4a4d-9f98-7c88720733fb-r_index-2026-09-22T17:00:00.000Z",
-    "show_title": "NERODIFUMO",
-    "artist_name": "bzxz.domnyj",
+    "id": "7d8f664e-6ef2-4117-a1be-aa587b51a3c0",
+    "show_title": "EX AEQUA SHOWCASE - WIRELESS IMAGINATION",
+    "artist_name": "Aleksandra",
     "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/1998a98d-4f7a-4ade-b85c-dbaba2f1a59b/2026-09-21T07:09:23.236Z-1024x1024.jpg",
-    "start_iso": "2026-09-22T19:00:00+02:00",
-    "end_iso": "2026-09-22T20:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/21be80ee-2551-445d-9fe6-16dc33875e06/2026-09-21T10:03:03.389Z-1024x1024.jpg",
+    "start_iso": "2026-09-23T19:00:00+02:00",
+    "end_iso": "2026-09-23T20:00:00+02:00",
     "image_filename": "story_1900.png"
   },
   {
-    "id": "72376311-2bec-4cb0-8b5e-5fe71622f796-r_index-2026-09-22T19:00:00.000Z",
-    "show_title": "PECORELETTRICHE",
-    "artist_name": "TACHELES",
-    "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/1fc09831-dd38-40a3-8a94-19448e948c51/2026-09-14T18:25:04.933Z-1024x1024.jpg",
-    "start_iso": "2026-09-22T21:00:00+02:00",
-    "end_iso": "2026-09-22T22:00:00+02:00",
-    "image_filename": "story_2100.png"
-  },
-  {
-    "id": "25c1c18b-576c-4703-9d1b-0e1c93fabd5a-r_index-2026-09-22T21:00:00.000Z",
-    "show_title": "SOCIAL MACHINE PRES B4 CITY SOUNDS (1-YEAR ANNIVERSARY)",
-    "artist_name": "Snooz",
-    "time_str": "23:00 - 00:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c635a425-cc6a-4ab6-b36d-39ab92e87f76/2026-09-14T18:26:49.294Z-1024x1024.jpg",
-    "start_iso": "2026-09-22T23:00:00+02:00",
-    "end_iso": "2026-09-23T00:00:00+02:00",
-    "image_filename": "story_2300.png"
+    "id": "d926267c-f49b-473b-8840-7cad019479a2",
+    "show_title": "EX AEQUA SHOWCASE - TROPIC ERROR",
+    "artist_name": "Martz",
+    "time_str": "20:00 - 21:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/4fc6aa98-03d6-4192-ad17-79035fd6c5bb/2026-09-21T10:06:05.260Z-1024x1024.jpg",
+    "start_iso": "2026-09-23T20:00:00+02:00",
+    "end_iso": "2026-09-23T21:00:00+02:00",
+    "image_filename": "story_2000.png"
   }
 ]
