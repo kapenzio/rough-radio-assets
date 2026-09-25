@@ -1,42 +1,42 @@
 [
   {
-    "id": "9f37b6b3-bd43-4125-b0e7-2a1ff62d5543-r_index-2026-09-24T15:00:00.000Z",
-    "show_title": "GANGA RADIO",
-    "artist_name": "Debi Wallace",
-    "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/27b160dd-5147-4979-a743-eee7ebff3193/2026-09-14T18:34:42.409Z-1024x1024.jpg",
-    "start_iso": "2026-09-24T17:00:00+02:00",
-    "end_iso": "2026-09-24T18:00:00+02:00",
-    "image_filename": "story_1700.png"
-  },
-  {
-    "id": "2cf7144c-8a5e-4b80-9345-3394be8388e6-r_index-2026-09-24T16:00:00.000Z",
-    "show_title": "ECHOES OF THE UNKNOWN",
-    "artist_name": "cruisecontrol",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cd708e15-b252-4b83-99de-236e41043672/2026-09-21T09:59:45.982Z-1024x1024.jpg",
-    "start_iso": "2026-09-24T18:00:00+02:00",
-    "end_iso": "2026-09-24T19:00:00+02:00",
+    "id": "34108eca-7264-4c43-be29-f3e400b6fabb",
+    "show_title": "LIVE STREAMING @ L863 – GIANO ELECTRONICS PRES DREXCIYA NIGHT",
+    "artist_name": "Andrea Benedetti, Akkaelle, QU ER",
+    "time_str": "18:00 - 20:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/7c910386-a5be-4bfb-9d9d-204641921ec2/2026-09-24T11:00:02.908Z-1024x1024.jpg",
+    "start_iso": "2026-09-25T18:00:00+02:00",
+    "end_iso": "2026-09-25T20:00:00+02:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "6bec3bef-6744-4c75-bdc8-16de84d6c8fd-r_index-2026-09-24T17:00:00.000Z",
-    "show_title": "RAMEN RAVE",
-    "artist_name": "tamanaramen",
-    "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9ab60106-be6f-4337-b4ab-0d08bb3e7d4f/2026-09-14T18:38:01.279Z-1024x1024.jpg",
-    "start_iso": "2026-09-24T19:00:00+02:00",
-    "end_iso": "2026-09-24T20:00:00+02:00",
-    "image_filename": "story_1900.png"
+    "id": "01dbc776-f77b-4daa-ab2c-c13c313851d0",
+    "show_title": "PBJ TIME",
+    "artist_name": "Peanut Butter Jelly Crew",
+    "time_str": "21:00 - 22:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/523a6736-7a1a-49ee-9dd5-b771f385f125/2026-09-21T09:59:32.892Z-1024x1024.jpg",
+    "start_iso": "2026-09-25T21:00:00+02:00",
+    "end_iso": "2026-09-25T22:00:00+02:00",
+    "image_filename": "story_2100.png"
   },
   {
-    "id": "df79e46a-caf9-4c30-b958-e34b4d86f4c6-r_index-2026-09-24T18:00:00.000Z",
-    "show_title": "IDRIS MBAYE PRES WEATHER ARCHIVE",
-    "artist_name": "Emmanuel Caurel",
-    "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/fec74ee3-7bad-46b5-9f02-2e7f1ce743b8/2026-09-14T18:39:48.413Z-1024x1024.jpg",
-    "start_iso": "2026-09-24T20:00:00+02:00",
-    "end_iso": "2026-09-24T21:00:00+02:00",
-    "image_filename": "story_2000.png"
+    "id": "126eaf5b-4986-4bba-8ccd-0d66472f54f0",
+    "show_title": "LOST IN SOUNDSCAPE",
+    "artist_name": "Treaz aka 3AZ",
+    "time_str": "22:00 - 23:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8d3b08f1-2c48-48aa-af69-c03fcef08555/2026-09-22T08:38:35.352Z-1024x1024.jpg",
+    "start_iso": "2026-09-25T22:00:00+02:00",
+    "end_iso": "2026-09-25T23:00:00+02:00",
+    "image_filename": "story_2200.png"
+  },
+  {
+    "id": "1c63eba4-de38-4ba8-883a-9dd04dad4f23-r_index-2026-09-25T21:00:00.000Z",
+    "show_title": "AFTER SYID",
+    "artist_name": "Syid",
+    "time_str": "23:00 - 00:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8aa74789-63eb-4a30-8a58-c13b6c458819/2026-09-22T17:46:59.120Z-1024x1024.jpg",
+    "start_iso": "2026-09-25T23:00:00+02:00",
+    "end_iso": "2026-09-26T00:00:00+02:00",
+    "image_filename": "story_2300.png"
   }
 ]
