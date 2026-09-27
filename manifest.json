@@ -1,32 +1,32 @@
 [
   {
-    "id": "4853561a-8386-4977-9f29-1ff07483af3c-r_index-2026-09-26T16:00:00.000Z",
-    "show_title": "LIVE STREAMING @ L863",
-    "artist_name": "lilisland",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/6431da6e-53ee-47f7-a825-5c3901392a6f/2026-09-07T16:54:56.291Z-1024x1024.jpg",
-    "start_iso": "2026-09-26T18:00:00+02:00",
-    "end_iso": "2026-09-26T19:00:00+02:00",
-    "image_filename": "story_1800.png"
+    "id": "df328659-f001-4165-9043-aa587ecaaa51-r_index-2026-09-27T18:00:00.000Z",
+    "show_title": "NONLOCALITY",
+    "artist_name": "semi-structured data",
+    "time_str": "20:00 - 21:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c40eecd8-cca0-48a0-849a-615d4ffd6fef/2026-09-17T07:54:55.034Z-1024x1024.jpg",
+    "start_iso": "2026-09-27T20:00:00+02:00",
+    "end_iso": "2026-09-27T21:00:00+02:00",
+    "image_filename": "story_2000.png"
   },
   {
-    "id": "6c384d65-83c9-4f6c-ab94-dfa20ddb5bd7-r_index-2026-09-26T17:00:00.000Z",
-    "show_title": "LIVE STREAMING @ L863",
-    "artist_name": "Stiky Verde & Kiriku",
-    "time_str": "19:00 - 20:45 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/f4fe593e-e5f2-468c-812e-2aa2d60935aa/2026-09-07T16:57:26.045Z-1024x1024.jpg",
-    "start_iso": "2026-09-26T19:00:00+02:00",
-    "end_iso": "2026-09-26T20:45:00+02:00",
-    "image_filename": "story_1900.png"
+    "id": "2a919618-f3a9-4fa1-a06d-62e28bb639b1-r_index-2026-09-27T19:00:00.000Z",
+    "show_title": "FLOWCONTROL",
+    "artist_name": "SEF",
+    "time_str": "21:00 - 22:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cc1ff5bc-005a-4213-a1b5-2dfc1b8aedbc/2026-09-14T18:51:36.752Z-1024x1024.jpg",
+    "start_iso": "2026-09-27T21:00:00+02:00",
+    "end_iso": "2026-09-27T22:00:00+02:00",
+    "image_filename": "story_2100.png"
   },
   {
-    "id": "13fa1485-0dbf-4b1a-93b9-a57fa8cb1a54-r_index-2026-09-26T21:00:00.000Z",
-    "show_title": "PYTECA SELECTA",
-    "artist_name": "Tamērici",
-    "time_str": "23:00 - 00:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/00b544aa-6ca1-4219-b7a6-2af23302bec2/2026-09-15T10:03:28.791Z-1024x1024.jpg",
-    "start_iso": "2026-09-26T23:00:00+02:00",
-    "end_iso": "2026-09-27T00:00:00+02:00",
-    "image_filename": "story_2300.png"
+    "id": "a2a8783b-e361-4186-8dc8-631db7366781-r_index-2026-09-27T20:00:00.000Z",
+    "show_title": "WAIT_NOISE",
+    "artist_name": "Chelidon Frame",
+    "time_str": "22:00 - 23:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5127528c-39cf-4b29-aee9-e7cad175ed23/2026-09-23T08:22:07.382Z-1024x1024.jpg",
+    "start_iso": "2026-09-27T22:00:00+02:00",
+    "end_iso": "2026-09-27T23:00:00+02:00",
+    "image_filename": "story_2200.png"
   }
 ]
