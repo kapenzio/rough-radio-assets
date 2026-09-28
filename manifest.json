@@ -1,32 +1,52 @@
 [
   {
-    "id": "df328659-f001-4165-9043-aa587ecaaa51-r_index-2026-09-27T18:00:00.000Z",
-    "show_title": "NONLOCALITY",
-    "artist_name": "semi-structured data",
+    "id": "7d4f69e4-35ce-4e09-adfe-ed423b90c210-r_index-2026-09-28T16:00:00.000Z",
+    "show_title": "THE KEYS TO HEAVEN ARE PINK, DIDN'T YOU KNOW?",
+    "artist_name": "rosachiavi",
+    "time_str": "18:00 - 19:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/bf2df3d6-8163-4364-80b1-bc9daf60e7d2/2026-09-24T10:30:46.009Z-1024x1024.jpg",
+    "start_iso": "2026-09-28T18:00:00+02:00",
+    "end_iso": "2026-09-28T19:00:00+02:00",
+    "image_filename": "story_1800.png"
+  },
+  {
+    "id": "299192ee-3d50-48ed-ad39-950310cfc9ff-r_index-2026-09-28T17:00:00.000Z",
+    "show_title": "THE ROUGH TAPE",
+    "artist_name": "Nimdaselector",
+    "time_str": "19:00 - 20:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/121829cb-b728-4106-8592-c1d9614b146e/2026-09-24T10:32:23.983Z-1024x1024.jpg",
+    "start_iso": "2026-09-28T19:00:00+02:00",
+    "end_iso": "2026-09-28T20:00:00+02:00",
+    "image_filename": "story_1900.png"
+  },
+  {
+    "id": "2925867b-26b8-43f4-af8f-b1204d41f949-r_index-2026-09-28T18:00:00.000Z",
+    "show_title": "COLLISIONI SONORE",
+    "artist_name": "Kalibaru",
     "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c40eecd8-cca0-48a0-849a-615d4ffd6fef/2026-09-17T07:54:55.034Z-1024x1024.jpg",
-    "start_iso": "2026-09-27T20:00:00+02:00",
-    "end_iso": "2026-09-27T21:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/eb1e212e-59f8-4506-9a3b-c0642f095a58/2026-09-25T11:02:13.253Z-1024x1024.jpg",
+    "start_iso": "2026-09-28T20:00:00+02:00",
+    "end_iso": "2026-09-28T21:00:00+02:00",
     "image_filename": "story_2000.png"
   },
   {
-    "id": "2a919618-f3a9-4fa1-a06d-62e28bb639b1-r_index-2026-09-27T19:00:00.000Z",
-    "show_title": "FLOWCONTROL",
-    "artist_name": "SEF",
+    "id": "65dd9288-ea01-46e4-8633-0ab9078d302b-r_index-2026-09-28T19:00:00.000Z",
+    "show_title": "TERRA LOTOPHAGARUM",
+    "artist_name": "Tamērici",
     "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cc1ff5bc-005a-4213-a1b5-2dfc1b8aedbc/2026-09-14T18:51:36.752Z-1024x1024.jpg",
-    "start_iso": "2026-09-27T21:00:00+02:00",
-    "end_iso": "2026-09-27T22:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d07b99d8-6611-463b-9ef8-3502c1b90984/2026-09-24T10:37:16.535Z-1024x1024.jpg",
+    "start_iso": "2026-09-28T21:00:00+02:00",
+    "end_iso": "2026-09-28T22:00:00+02:00",
     "image_filename": "story_2100.png"
   },
   {
-    "id": "a2a8783b-e361-4186-8dc8-631db7366781-r_index-2026-09-27T20:00:00.000Z",
-    "show_title": "WAIT_NOISE",
-    "artist_name": "Chelidon Frame",
-    "time_str": "22:00 - 23:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5127528c-39cf-4b29-aee9-e7cad175ed23/2026-09-23T08:22:07.382Z-1024x1024.jpg",
-    "start_iso": "2026-09-27T22:00:00+02:00",
-    "end_iso": "2026-09-27T23:00:00+02:00",
+    "id": "4242f00c-e930-4562-84d5-391762dc0835-r_index-2026-09-28T20:00:00.000Z",
+    "show_title": "INSIDE THE PLACE",
+    "artist_name": "Eyesa",
+    "time_str": "22:00 - 00:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/42a7b25c-80b6-4160-a25b-f0ed57d3e3e4/2026-09-24T10:38:43.256Z-1024x1024.jpg",
+    "start_iso": "2026-09-28T22:00:00+02:00",
+    "end_iso": "2026-09-29T00:00:00+02:00",
     "image_filename": "story_2200.png"
   }
 ]
