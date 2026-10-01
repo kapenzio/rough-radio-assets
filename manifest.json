@@ -1,42 +1,52 @@
 [
   {
-    "id": "a4b70d59-a237-42f5-8e65-9c9fa2071172-r_index-2026-09-29T14:00:00.000Z",
-    "show_title": "LIMBO VIOLENTO",
-    "artist_name": "Magone",
-    "time_str": "16:00 - 17:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5ee48b8d-ea12-4b80-83fa-a948551b454c/2026-09-24T10:40:47.718Z-1024x1024.jpg",
-    "start_iso": "2026-09-29T16:00:00+02:00",
-    "end_iso": "2026-09-29T17:00:00+02:00",
-    "image_filename": "story_1600.png"
+    "id": "3f046672-f331-47dc-9157-d04daab86713-r_index-2026-10-01T16:00:00.000Z",
+    "show_title": "SAMI NIKOU PRES BORDERLESS TRANSIENTS",
+    "artist_name": "Pedrum",
+    "time_str": "18:00 - 19:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/db0a792c-a6d0-4839-bf57-934dc23fc468/2026-09-28T06:51:36.352Z-1024x1024.jpg",
+    "start_iso": "2026-10-01T18:00:00+02:00",
+    "end_iso": "2026-10-01T19:00:00+02:00",
+    "image_filename": "story_1800.png"
   },
   {
-    "id": "df5b33bd-10cb-4339-8228-c43d51bd3caa",
-    "show_title": "EX AEQUA SHOWCASE – I THINK OF ROSES WHILE I TOUCH THE SKY",
-    "artist_name": "dérive",
+    "id": "06f0c93e-f14f-4e1f-ba60-136568e50fad",
+    "show_title": "CONTINUUM",
+    "artist_name": "Marco Passarani",
     "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8f3a40d1-f897-4bfb-bcb2-2e2ce358cec0/2026-09-28T07:23:02.368Z-1024x1024.jpg",
-    "start_iso": "2026-09-29T19:00:00+02:00",
-    "end_iso": "2026-09-29T20:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2b3d15cb-a9d0-437d-9723-b4a120655393/2026-09-24T10:45:11.434Z-1024x1024.jpg",
+    "start_iso": "2026-10-01T19:00:00+02:00",
+    "end_iso": "2026-10-01T20:00:00+02:00",
     "image_filename": "story_1900.png"
   },
   {
-    "id": "ed7c5972-0b5e-4707-b67e-9dd8594c4412",
-    "show_title": "EX AEQUA SHOWCASE – SICILIAN GROOVE",
-    "artist_name": "FREJA",
+    "id": "218bb101-596e-4082-856b-aa288eb6dd52-r_index-2026-10-01T18:00:00.000Z",
+    "show_title": "MUSICHE DAL MONDO CONOSCIUTO",
+    "artist_name": "Dan Mar",
     "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/41ed491c-877e-444f-8218-303b9066453c/2026-09-28T07:27:04.306Z-1024x1024.jpg",
-    "start_iso": "2026-09-29T20:00:00+02:00",
-    "end_iso": "2026-09-29T21:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9a02bb11-0a4d-4e5e-8152-2a2bdabb871c/2026-09-24T10:45:59.319Z-1024x1024.jpg",
+    "start_iso": "2026-10-01T20:00:00+02:00",
+    "end_iso": "2026-10-01T21:00:00+02:00",
     "image_filename": "story_2000.png"
   },
   {
-    "id": "20821ce2-ba2e-498f-8d6f-7e53fe6e5509",
-    "show_title": "EX AEQUA SHOWCASE – DECONSTRUCTED & BROKEN CLUB",
-    "artist_name": "CABALE",
+    "id": "578e32aa-5deb-40be-8d4b-a9762f30c0bd-r_index-2026-10-01T19:00:00.000Z",
+    "show_title": "DÉSIR",
+    "artist_name": "ELLA DJ",
     "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/a7ce668e-de66-45f0-8123-9429b2a0ae02/2026-09-28T07:18:12.357Z-1024x1024.jpg",
-    "start_iso": "2026-09-29T21:00:00+02:00",
-    "end_iso": "2026-09-29T22:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c0afdf24-bcba-44d9-b261-f3c76d0974f2/2026-09-24T11:05:11.702Z-1024x1024.jpg",
+    "start_iso": "2026-10-01T21:00:00+02:00",
+    "end_iso": "2026-10-01T22:00:00+02:00",
     "image_filename": "story_2100.png"
+  },
+  {
+    "id": "11e19da4-61aa-40ed-af66-278a9a2dd55a",
+    "show_title": "HIDDEN CORE",
+    "artist_name": "INPASTE",
+    "time_str": "22:00 - 23:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/07c1542f-717f-4ad7-a287-0a97ca44feb0/2026-10-01T07:19:02.981Z-1024x1024.jpg",
+    "start_iso": "2026-10-01T22:00:00+02:00",
+    "end_iso": "2026-10-01T23:00:00+02:00",
+    "image_filename": "story_2200.png"
   }
 ]
