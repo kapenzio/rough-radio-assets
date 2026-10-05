@@ -1,22 +1,62 @@
 [
   {
-    "id": "c84f6a26-b9b7-4822-8a29-f06d9b0d51e7",
-    "show_title": "PEPPERMINT CANDY",
-    "artist_name": "Fishflu",
-    "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8a28717d-e880-4d56-9ae8-10ac1e41791c/2026-10-02T07:13:32.385Z-1024x1024.jpg",
-    "start_iso": "2026-10-04T19:00:00+02:00",
-    "end_iso": "2026-10-04T20:00:00+02:00",
-    "image_filename": "story_1900.png"
+    "id": "ab018b3f-6fa0-484b-9eb3-d2b58faaae5c-r_index-2026-10-05T11:00:00.000Z",
+    "show_title": "PIZZA CLUB",
+    "artist_name": "Selin",
+    "time_str": "13:00 - 14:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/38540dae-2c56-4133-a9fe-1334c25dcc09/2026-10-04T14:37:09.646Z-1024x1024.jpg",
+    "start_iso": "2026-10-05T13:00:00+02:00",
+    "end_iso": "2026-10-05T14:00:00+02:00",
+    "image_filename": "story_1300.png"
   },
   {
-    "id": "2fdc3815-acd3-45a5-85ab-21eed1b8a08f",
-    "show_title": "COOKING W LIMES",
-    "artist_name": "Marcel Haynes",
-    "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/0023b4ce-cf77-406a-b945-ba2c96c18cf8/2026-09-24T10:52:09.827Z-1024x1024.jpg",
-    "start_iso": "2026-10-04T20:00:00+02:00",
-    "end_iso": "2026-10-04T21:00:00+02:00",
-    "image_filename": "story_2000.png"
+    "id": "2d5fbd4e-fd68-4964-95c4-3c490aed17c9-r_index-2026-10-05T12:00:00.000Z",
+    "show_title": "PIZZA CLUB",
+    "artist_name": "Luca Bigote",
+    "time_str": "14:00 - 15:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/3ce36b00-2008-4168-9d2c-37662da7a7bc/2026-10-04T14:39:52.519Z-1024x1024.jpg",
+    "start_iso": "2026-10-05T14:00:00+02:00",
+    "end_iso": "2026-10-05T15:00:00+02:00",
+    "image_filename": "story_1400.png"
+  },
+  {
+    "id": "64af7db8-d8f0-4040-8b68-a75e8dd7cb10-r_index-2026-10-05T13:00:00.000Z",
+    "show_title": "PIZZA CLUB",
+    "artist_name": "Basically Ugly Covers",
+    "time_str": "15:00 - 16:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/f50015b7-0936-4b6e-a948-32e2070fde58/2026-10-04T14:41:19.714Z-1024x1024.jpg",
+    "start_iso": "2026-10-05T15:00:00+02:00",
+    "end_iso": "2026-10-05T16:00:00+02:00",
+    "image_filename": "story_1500.png"
+  },
+  {
+    "id": "453419b1-1873-4f0c-b0b6-7ab653aa3c28-r_index-2026-10-05T14:00:00.000Z",
+    "show_title": "RITMO O NIENTE",
+    "artist_name": "Luca Monteforte",
+    "time_str": "16:00 - 17:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2efe8d72-cef6-4c09-a374-2983d95bedaf/2026-10-01T09:14:10.398Z-1024x1024.jpg",
+    "start_iso": "2026-10-05T16:00:00+02:00",
+    "end_iso": "2026-10-05T17:00:00+02:00",
+    "image_filename": "story_1600.png"
+  },
+  {
+    "id": "56707fa3-76be-4fe5-8585-a97d96fb4ea8-r_index-2026-10-05T15:00:00.000Z",
+    "show_title": "MOTJA PRES CHRONICLE",
+    "artist_name": "bonfeghen",
+    "time_str": "17:00 - 18:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/254412d7-bcd0-49ac-b93e-8a10e23cea3f/2026-10-03T10:39:27.067Z-1024x1024.jpg",
+    "start_iso": "2026-10-05T17:00:00+02:00",
+    "end_iso": "2026-10-05T18:00:00+02:00",
+    "image_filename": "story_1700.png"
+  },
+  {
+    "id": "18506012-7e9a-4a47-aba7-a5b526c5bdce-r_index-2026-10-05T17:00:00.000Z",
+    "show_title": "VISTULA NOIR",
+    "artist_name": "Mx Terrible",
+    "time_str": "19:00 - 20:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/a821db07-981f-4472-a982-7de97de4020c/2026-09-07T09:45:52.502Z-1024x1024.jpg",
+    "start_iso": "2026-10-05T19:00:00+02:00",
+    "end_iso": "2026-10-05T20:00:00+02:00",
+    "image_filename": "story_1900.png"
   }
 ]
