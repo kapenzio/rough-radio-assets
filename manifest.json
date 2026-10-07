@@ -1,42 +1,32 @@
 [
   {
-    "id": "5f2ad04c-1d60-4e3f-9f26-80e871ab1530-r_index-2026-10-06T13:00:00.000Z",
-    "show_title": "LOOKING FOR THE PERFECT BEAT",
-    "artist_name": "Tsrono",
-    "time_str": "15:00 - 16:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/748a2af0-0421-4080-b6b2-a8e9d290a323/2026-10-04T14:48:16.503Z-1024x1024.jpg",
-    "start_iso": "2026-10-06T15:00:00+02:00",
-    "end_iso": "2026-10-06T16:00:00+02:00",
-    "image_filename": "story_1500.png"
+    "id": "958a6bc3-1d8f-4a34-96a2-b5cf0186a3c2",
+    "show_title": "AMBIVALENT INVITES – COMMON SERIES",
+    "artist_name": "Marco Erroi",
+    "time_str": "18:00 - 19:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2f18657f-0a7d-4138-8d7c-64b884a612ce/2026-09-30T10:28:45.246Z-1024x1024.jpg",
+    "start_iso": "2026-10-07T18:00:00+02:00",
+    "end_iso": "2026-10-07T19:00:00+02:00",
+    "image_filename": "story_1800.png"
   },
   {
-    "id": "97ef822a-b338-4522-ad56-16352e848887-r_index-2026-10-06T15:00:00.000Z",
-    "show_title": "MAYOR T PRES ROADBLOCK",
-    "artist_name": "SAMA",
-    "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/25f8c63a-7312-46ca-b65c-84dc2b7480c7/2026-09-30T10:20:25.279Z-1024x1024.jpg",
-    "start_iso": "2026-10-06T17:00:00+02:00",
-    "end_iso": "2026-10-06T18:00:00+02:00",
-    "image_filename": "story_1700.png"
-  },
-  {
-    "id": "0d118085-88a1-4a6c-a5b1-38bbbcc7fb32-r_index-2026-10-06T18:00:00.000Z",
-    "show_title": "TORSO",
-    "artist_name": "Rushab Nandha",
+    "id": "1750b092-33a3-4b88-ba50-1b172e86a5ba-r_index-2026-10-07T18:00:00.000Z",
+    "show_title": "SILENCE AFTER SOUND",
+    "artist_name": "ETRA",
     "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e7028acb-5894-4bae-9b68-1e2fa7e510c4/2026-09-30T10:22:27.863Z-1024x1024.jpg",
-    "start_iso": "2026-10-06T20:00:00+02:00",
-    "end_iso": "2026-10-06T21:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/a37fd94b-62f7-485a-bae4-1db243955d56/2026-09-30T10:29:19.395Z-1024x1024.jpg",
+    "start_iso": "2026-10-07T20:00:00+02:00",
+    "end_iso": "2026-10-07T21:00:00+02:00",
     "image_filename": "story_2000.png"
   },
   {
-    "id": "bc70e3a0-d7c6-4412-9165-7fddf905275b-r_index-2026-10-06T19:00:00.000Z",
-    "show_title": "INTO THE NIGHT GARDEN",
-    "artist_name": "snake18k",
-    "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/96deeec6-e0a2-44cf-9bf3-7c72e0635a7f/2026-09-30T10:23:14.303Z-1024x1024.jpg",
-    "start_iso": "2026-10-06T21:00:00+02:00",
-    "end_iso": "2026-10-06T22:00:00+02:00",
-    "image_filename": "story_2100.png"
+    "id": "f5365524-dd50-405c-ba72-35be658f7f6b-r_index-2026-10-07T20:00:00.000Z",
+    "show_title": "HARD DRIVE",
+    "artist_name": "RYLO",
+    "time_str": "22:00 - 23:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/4ef73469-53bb-4f54-a67b-059b0093d928/2026-09-30T10:31:11.608Z-1024x1024.jpg",
+    "start_iso": "2026-10-07T22:00:00+02:00",
+    "end_iso": "2026-10-07T23:00:00+02:00",
+    "image_filename": "story_2200.png"
   }
 ]
