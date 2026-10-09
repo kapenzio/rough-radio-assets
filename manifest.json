@@ -1,42 +1,32 @@
 [
   {
-    "id": "9c03f422-676e-41a5-abec-ec1df71d5548-r_index-2026-10-08T16:00:00.000Z",
-    "show_title": "ESTATE VIOLENTA",
-    "artist_name": "Oliver Seadwood",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e8a06e90-dc94-4f50-930a-c88ec7a0848e/2026-09-07T07:32:17.942Z-1024x1024.jpg",
-    "start_iso": "2026-10-08T18:00:00+02:00",
-    "end_iso": "2026-10-08T19:00:00+02:00",
-    "image_filename": "story_1800.png"
+    "id": "ad1a0412-b80e-4eb5-a5dc-5c0ee734e278-r_index-2026-10-09T08:00:00.000Z",
+    "show_title": "LOVE STREAMS",
+    "artist_name": "Roden",
+    "time_str": "10:00 - 11:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2aced03d-f1a0-4e6a-9b9f-327a7df7a228/2026-09-07T07:38:01.435Z-1024x1024.jpg",
+    "start_iso": "2026-10-09T10:00:00+02:00",
+    "end_iso": "2026-10-09T11:00:00+02:00",
+    "image_filename": "story_1000.png"
   },
   {
-    "id": "01564f99-dcff-4ddc-b1ea-f741430bde02-r_index-2026-10-08T17:00:00.000Z",
-    "show_title": "DUMKA ALGORITMO INVITES: IN SOSPESO",
-    "artist_name": "carenza",
-    "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e5ac6e16-1548-4ca3-816b-3f990c170377/2026-10-07T10:43:43.290Z-1024x1024.jpg",
-    "start_iso": "2026-10-08T19:00:00+02:00",
-    "end_iso": "2026-10-08T20:00:00+02:00",
-    "image_filename": "story_1900.png"
+    "id": "6bb7e948-269b-49ff-ad7a-6c7fe1a77212-r_index-2026-10-09T18:00:00.000Z",
+    "show_title": "HARDCORE TAKEOVER",
+    "artist_name": "Do You Care? Zine",
+    "time_str": "20:00 - 21:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/754a7c0b-f035-4105-946f-3fbf2a754ffd/2026-10-08T14:23:47.631Z-1024x1024.jpg",
+    "start_iso": "2026-10-09T20:00:00+02:00",
+    "end_iso": "2026-10-09T21:00:00+02:00",
+    "image_filename": "story_2000.png"
   },
   {
-    "id": "e55e513e-dde2-4b78-9a99-02a881956108-r_index-2026-10-08T19:00:00.000Z",
-    "show_title": "SOCIAL MUSIC",
-    "artist_name": "Dance Routine",
+    "id": "eac309b3-7e95-4cb8-b610-5f56d58a47cb-r_index-2026-10-09T19:00:00.000Z",
+    "show_title": "BORN IN PRIPYAT",
+    "artist_name": "Gorb",
     "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5c741b51-39ef-497f-9756-7e5296355664/2026-09-30T10:34:10.273Z-1024x1024.jpg",
-    "start_iso": "2026-10-08T21:00:00+02:00",
-    "end_iso": "2026-10-08T22:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d02e2c62-a4f5-4266-b346-64217f07a7d5/2026-09-30T10:43:15.313Z-1024x1024.jpg",
+    "start_iso": "2026-10-09T21:00:00+02:00",
+    "end_iso": "2026-10-09T22:00:00+02:00",
     "image_filename": "story_2100.png"
-  },
-  {
-    "id": "c2b5b694-e117-4bdf-8100-ffdc3f15878f",
-    "show_title": "D3070 PRES HYBRID RESONANCE",
-    "artist_name": "DJ Fractal",
-    "time_str": "23:00 - 00:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/478aaa56-1724-483e-98d7-a38f9b0d823f/2026-09-07T07:32:00.073Z-1024x1024.jpg",
-    "start_iso": "2026-10-08T23:00:00+02:00",
-    "end_iso": "2026-10-09T00:00:00+02:00",
-    "image_filename": "story_2300.png"
   }
 ]
