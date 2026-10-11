@@ -1,32 +1,32 @@
 [
   {
-    "id": "ad1a0412-b80e-4eb5-a5dc-5c0ee734e278-r_index-2026-10-09T08:00:00.000Z",
-    "show_title": "LOVE STREAMS",
-    "artist_name": "Roden",
-    "time_str": "10:00 - 11:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2aced03d-f1a0-4e6a-9b9f-327a7df7a228/2026-09-07T07:38:01.435Z-1024x1024.jpg",
-    "start_iso": "2026-10-09T10:00:00+02:00",
-    "end_iso": "2026-10-09T11:00:00+02:00",
-    "image_filename": "story_1000.png"
+    "id": "0d3a2e10-a447-45cf-bb6d-febae43878d4-r_index-2026-10-11T16:00:00.000Z",
+    "show_title": "PIEDI VERI",
+    "artist_name": "Beeba",
+    "time_str": "18:00 - 19:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d9c66ec8-97e6-464d-b49d-d4b1d92984c6/2026-10-08T07:06:19.630Z-1024x1024.jpg",
+    "start_iso": "2026-10-11T18:00:00+02:00",
+    "end_iso": "2026-10-11T19:00:00+02:00",
+    "image_filename": "story_1800.png"
   },
   {
-    "id": "6bb7e948-269b-49ff-ad7a-6c7fe1a77212-r_index-2026-10-09T18:00:00.000Z",
-    "show_title": "HARDCORE TAKEOVER",
-    "artist_name": "Do You Care? Zine",
+    "id": "4c4787e7-aac2-48ba-a972-23a3b0b35158-r_index-2026-10-11T17:00:00.000Z",
+    "show_title": "LANDSCAPING",
+    "artist_name": "Silver Spirit",
+    "time_str": "19:00 - 20:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c6d0c6e0-cb8f-4b27-bd83-019bb0cbc9a8/2026-09-07T11:40:04.400Z-1024x1024.jpg",
+    "start_iso": "2026-10-11T19:00:00+02:00",
+    "end_iso": "2026-10-11T20:00:00+02:00",
+    "image_filename": "story_1900.png"
+  },
+  {
+    "id": "f18ec7cc-9a56-4501-84bb-8c58e59ee408-r_index-2026-10-11T18:00:00.000Z",
+    "show_title": "NERV RADIO SHOW",
+    "artist_name": "Ballardian Dream Machine",
     "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/754a7c0b-f035-4105-946f-3fbf2a754ffd/2026-10-08T14:23:47.631Z-1024x1024.jpg",
-    "start_iso": "2026-10-09T20:00:00+02:00",
-    "end_iso": "2026-10-09T21:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b985c6b6-5860-454c-9070-ca50690c7fbd/2026-10-07T06:47:01.597Z-1024x1024.jpg",
+    "start_iso": "2026-10-11T20:00:00+02:00",
+    "end_iso": "2026-10-11T21:00:00+02:00",
     "image_filename": "story_2000.png"
-  },
-  {
-    "id": "eac309b3-7e95-4cb8-b610-5f56d58a47cb-r_index-2026-10-09T19:00:00.000Z",
-    "show_title": "BORN IN PRIPYAT",
-    "artist_name": "Gorb",
-    "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d02e2c62-a4f5-4266-b346-64217f07a7d5/2026-09-30T10:43:15.313Z-1024x1024.jpg",
-    "start_iso": "2026-10-09T21:00:00+02:00",
-    "end_iso": "2026-10-09T22:00:00+02:00",
-    "image_filename": "story_2100.png"
   }
 ]
