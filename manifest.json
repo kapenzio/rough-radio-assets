@@ -1,52 +1,32 @@
 [
   {
-    "id": "b11f8c90-f411-40b0-934d-a88e97f23b84-r_index-2026-10-12T12:00:00.000Z",
-    "show_title": "REFUSE",
-    "artist_name": "M.D.A.",
-    "time_str": "14:00 - 15:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2f2eb417-b498-4ce0-88ee-97c2b89b2605/2026-09-08T08:13:26.777Z-1024x1024.jpg",
-    "start_iso": "2026-10-12T14:00:00+02:00",
-    "end_iso": "2026-10-12T15:00:00+02:00",
-    "image_filename": "story_1400.png"
-  },
-  {
-    "id": "aacbc3a7-8572-44a6-a81e-d5c743517ef7-r_index-2026-10-12T16:00:00.000Z",
-    "show_title": "STICKY JUICE",
-    "artist_name": "MARTEK",
+    "id": "cf482721-0642-48c5-8e86-d67c26080bfc-r_index-2026-10-13T16:00:00.000Z",
+    "show_title": "DRIFT FM",
+    "artist_name": "W.I.P.",
     "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/fbaf1142-f3cf-46d4-acc0-629a46e74411/2026-10-10T12:31:33.441Z-1024x1024.jpg",
-    "start_iso": "2026-10-12T18:00:00+02:00",
-    "end_iso": "2026-10-12T19:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/325e598d-971d-46bb-b073-58b94a40376e/2026-10-11T13:08:49.061Z-1024x1024.jpg",
+    "start_iso": "2026-10-13T18:00:00+02:00",
+    "end_iso": "2026-10-13T19:00:00+02:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "c39d8dd1-93ef-4351-ac19-763ba3e40fb7-r_index-2026-10-12T17:00:00.000Z",
-    "show_title": "140° MINUTO",
-    "artist_name": "Belesi",
+    "id": "7cf47d53-4c01-403f-a019-5830cc6d4a0e-r_index-2026-10-13T17:00:00.000Z",
+    "show_title": "IKIGAI",
+    "artist_name": "Mantis",
     "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9aff5bc0-285e-457f-99c4-c6d89f2a2212/2026-09-09T08:37:32.626Z-1024x1024.jpg",
-    "start_iso": "2026-10-12T19:00:00+02:00",
-    "end_iso": "2026-10-12T20:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/49a01763-085e-4617-a9ca-c8ca8c670c4a/2026-09-07T07:15:03.562Z-1024x1024.jpg",
+    "start_iso": "2026-10-13T19:00:00+02:00",
+    "end_iso": "2026-10-13T20:00:00+02:00",
     "image_filename": "story_1900.png"
   },
   {
-    "id": "26803a3b-99c0-4a3d-8da5-f11c1aee6634-r_index-2026-10-12T18:00:00.000Z",
-    "show_title": "BINARY DREAMSCAPES",
-    "artist_name": "Luyten",
-    "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/572f7a9e-e1d3-470f-8b46-750997d85390/2026-09-10T07:55:42.579Z-1024x1024.jpg",
-    "start_iso": "2026-10-12T20:00:00+02:00",
-    "end_iso": "2026-10-12T21:00:00+02:00",
-    "image_filename": "story_2000.png"
-  },
-  {
-    "id": "9c7d99c7-b43f-4197-a5cd-44c0bb9cb061-r_index-2026-10-12T20:00:00.000Z",
-    "show_title": "PRIMAL TALES",
-    "artist_name": "MA\\E b2b Hemolymph",
+    "id": "b7a2d64f-12ea-451a-be8b-b39ab7095de6",
+    "show_title": "SLOTHMACHINES PRES. DUBBING THE EVERYDAY",
+    "artist_name": "Bassa Valle Connection",
     "time_str": "22:00 - 23:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/3f05d960-c9d0-4514-8c36-83cb82da808e/2026-09-12T09:53:08.368Z-1024x1024.jpg",
-    "start_iso": "2026-10-12T22:00:00+02:00",
-    "end_iso": "2026-10-12T23:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/620cb09b-d933-408c-93bf-3e44ac413976/2026-10-12T12:14:47.912Z-1024x1024.jpg",
+    "start_iso": "2026-10-13T22:00:00+02:00",
+    "end_iso": "2026-10-13T23:00:00+02:00",
     "image_filename": "story_2200.png"
   }
 ]
