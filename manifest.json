@@ -1,32 +1,42 @@
 [
   {
-    "id": "cf482721-0642-48c5-8e86-d67c26080bfc-r_index-2026-10-13T16:00:00.000Z",
-    "show_title": "DRIFT FM",
-    "artist_name": "W.I.P.",
+    "id": "42827cfe-e6e2-49a8-92d7-b49439ef92ed-r_index-2026-10-14T15:00:00.000Z",
+    "show_title": "PARTIAL",
+    "artist_name": "Kat.lysa",
+    "time_str": "17:00 - 18:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5fd327c7-71d4-4d7a-8b24-9462fcf65eed/2026-09-30T10:19:17.821Z-1024x1024.jpg",
+    "start_iso": "2026-10-14T17:00:00+02:00",
+    "end_iso": "2026-10-14T18:00:00+02:00",
+    "image_filename": "story_1700.png"
+  },
+  {
+    "id": "20c47513-0331-4c7c-a926-7de593c206eb-r_index-2026-10-14T16:00:00.000Z",
+    "show_title": "LDWG PRES NEVERHOOD",
+    "artist_name": "Memory Clap Acid",
     "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/325e598d-971d-46bb-b073-58b94a40376e/2026-10-11T13:08:49.061Z-1024x1024.jpg",
-    "start_iso": "2026-10-13T18:00:00+02:00",
-    "end_iso": "2026-10-13T19:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c6f23502-440f-4ea9-8d71-a91e47fe220a/2026-10-10T06:41:05.427Z-1024x1024.jpg",
+    "start_iso": "2026-10-14T18:00:00+02:00",
+    "end_iso": "2026-10-14T19:00:00+02:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "7cf47d53-4c01-403f-a019-5830cc6d4a0e-r_index-2026-10-13T17:00:00.000Z",
-    "show_title": "IKIGAI",
-    "artist_name": "Mantis",
-    "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/49a01763-085e-4617-a9ca-c8ca8c670c4a/2026-09-07T07:15:03.562Z-1024x1024.jpg",
-    "start_iso": "2026-10-13T19:00:00+02:00",
-    "end_iso": "2026-10-13T20:00:00+02:00",
-    "image_filename": "story_1900.png"
+    "id": "3d97d663-d711-4c86-a0a4-d208fa5fcb6b-r_index-2026-10-14T20:00:00.000Z",
+    "show_title": "PIANO PIANO",
+    "artist_name": "Crisi Metropolitana",
+    "time_str": "22:00 - 23:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/ca2c8f6c-769e-4b84-be8f-e0312477a482/2026-09-07T07:23:49.018Z-1024x1024.jpg",
+    "start_iso": "2026-10-14T22:00:00+02:00",
+    "end_iso": "2026-10-14T23:00:00+02:00",
+    "image_filename": "story_2200.png"
   },
   {
-    "id": "b7a2d64f-12ea-451a-be8b-b39ab7095de6",
-    "show_title": "SLOTHMACHINES PRES. DUBBING THE EVERYDAY",
-    "artist_name": "Bassa Valle Connection",
-    "time_str": "22:00 - 23:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/620cb09b-d933-408c-93bf-3e44ac413976/2026-10-12T12:14:47.912Z-1024x1024.jpg",
-    "start_iso": "2026-10-13T22:00:00+02:00",
-    "end_iso": "2026-10-13T23:00:00+02:00",
-    "image_filename": "story_2200.png"
+    "id": "350369f6-0189-4d8c-ae0c-35ebcd8cdbe9-r_index-2026-10-14T21:00:00.000Z",
+    "show_title": "FRESHNESS IN THE MIX",
+    "artist_name": "Keeperfunk",
+    "time_str": "23:00 - 00:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9f532dc8-f200-4892-9b77-4a876384d4c4/2026-09-07T07:23:24.909Z-1024x1024.jpg",
+    "start_iso": "2026-10-14T23:00:00+02:00",
+    "end_iso": "2026-10-15T00:00:00+02:00",
+    "image_filename": "story_2300.png"
   }
 ]
