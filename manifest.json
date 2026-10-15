@@ -1,42 +1,52 @@
 [
   {
-    "id": "42827cfe-e6e2-49a8-92d7-b49439ef92ed-r_index-2026-10-14T15:00:00.000Z",
-    "show_title": "PARTIAL",
-    "artist_name": "Kat.lysa",
+    "id": "628478b9-a073-467a-a273-a47e5c38115b-r_index-2026-10-15T13:00:00.000Z",
+    "show_title": "PANMEDITERRANEAN MIXING",
+    "artist_name": "AmuniHabibi",
+    "time_str": "15:00 - 16:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d773a47b-d55c-4bf8-b0a4-eb3f48bbbbc1/2026-09-16T09:45:59.268Z-1024x1024.jpg",
+    "start_iso": "2026-10-15T15:00:00+02:00",
+    "end_iso": "2026-10-15T16:00:00+02:00",
+    "image_filename": "story_1500.png"
+  },
+  {
+    "id": "3236b7e7-5d09-4279-9a4d-7bd9a4c36b5e-r_index-2026-10-15T14:00:00.000Z",
+    "show_title": "DMT SOUND EMULATOR",
+    "artist_name": "Oltrefuturo",
+    "time_str": "16:00 - 17:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/bc55a376-7dd2-4b79-afb8-b40324e1c12c/2026-10-14T08:05:08.065Z-1024x1024.jpg",
+    "start_iso": "2026-10-15T16:00:00+02:00",
+    "end_iso": "2026-10-15T17:00:00+02:00",
+    "image_filename": "story_1600.png"
+  },
+  {
+    "id": "8d14e88d-fbc5-45c0-b0c8-19d72df1e966-r_index-2026-10-15T15:00:00.000Z",
+    "show_title": "DMT SOUND EMULATOR",
+    "artist_name": "Pepè Le Mofo",
     "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5fd327c7-71d4-4d7a-8b24-9462fcf65eed/2026-09-30T10:19:17.821Z-1024x1024.jpg",
-    "start_iso": "2026-10-14T17:00:00+02:00",
-    "end_iso": "2026-10-14T18:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/13dbf27f-a611-408e-aadc-f7acfbb2f316/2026-10-14T08:06:05.209Z-1024x1024.jpg",
+    "start_iso": "2026-10-15T17:00:00+02:00",
+    "end_iso": "2026-10-15T18:00:00+02:00",
     "image_filename": "story_1700.png"
   },
   {
-    "id": "20c47513-0331-4c7c-a926-7de593c206eb-r_index-2026-10-14T16:00:00.000Z",
-    "show_title": "LDWG PRES NEVERHOOD",
-    "artist_name": "Memory Clap Acid",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c6f23502-440f-4ea9-8d71-a91e47fe220a/2026-10-10T06:41:05.427Z-1024x1024.jpg",
-    "start_iso": "2026-10-14T18:00:00+02:00",
-    "end_iso": "2026-10-14T19:00:00+02:00",
-    "image_filename": "story_1800.png"
+    "id": "728292f5-f9e9-4377-ab18-6e29eeee8857-r_index-2026-10-15T17:00:00.000Z",
+    "show_title": "ALL LIUKK CAN EAT - FETTUCCINE",
+    "artist_name": "Luca Viola",
+    "time_str": "19:00 - 20:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/a18aab9c-a213-4ecc-a9e6-b725c9f94843/2026-10-13T09:32:49.767Z-1024x1024.jpg",
+    "start_iso": "2026-10-15T19:00:00+02:00",
+    "end_iso": "2026-10-15T20:00:00+02:00",
+    "image_filename": "story_1900.png"
   },
   {
-    "id": "3d97d663-d711-4c86-a0a4-d208fa5fcb6b-r_index-2026-10-14T20:00:00.000Z",
-    "show_title": "PIANO PIANO",
-    "artist_name": "Crisi Metropolitana",
+    "id": "1468f382-7ec8-41de-a6fa-0a1d5e34ea8c-r_index-2026-10-15T20:00:00.000Z",
+    "show_title": "ADEPTA ICONS_005",
+    "artist_name": "Ariadne's Labyrinth",
     "time_str": "22:00 - 23:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/ca2c8f6c-769e-4b84-be8f-e0312477a482/2026-09-07T07:23:49.018Z-1024x1024.jpg",
-    "start_iso": "2026-10-14T22:00:00+02:00",
-    "end_iso": "2026-10-14T23:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5005eddc-85b5-4a08-b36f-47b91b4bf395/2026-10-10T06:56:50.927Z-1024x1024.jpg",
+    "start_iso": "2026-10-15T22:00:00+02:00",
+    "end_iso": "2026-10-15T23:00:00+02:00",
     "image_filename": "story_2200.png"
-  },
-  {
-    "id": "350369f6-0189-4d8c-ae0c-35ebcd8cdbe9-r_index-2026-10-14T21:00:00.000Z",
-    "show_title": "FRESHNESS IN THE MIX",
-    "artist_name": "Keeperfunk",
-    "time_str": "23:00 - 00:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9f532dc8-f200-4892-9b77-4a876384d4c4/2026-09-07T07:23:24.909Z-1024x1024.jpg",
-    "start_iso": "2026-10-14T23:00:00+02:00",
-    "end_iso": "2026-10-15T00:00:00+02:00",
-    "image_filename": "story_2300.png"
   }
 ]
