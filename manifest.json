@@ -1,52 +1,32 @@
 [
   {
-    "id": "2aff83e1-f6ac-4fc6-82ee-65bb6982d912-r_index-2026-10-16T15:00:00.000Z",
-    "show_title": "LIVE STRAMING @ L863",
-    "artist_name": "Max Lettenbauer",
-    "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e5ccf067-11ac-4d42-bd5f-7f831a901c6c/2026-10-13T08:49:50.025Z-1024x1024.jpg",
-    "start_iso": "2026-10-16T17:00:00+02:00",
-    "end_iso": "2026-10-16T18:00:00+02:00",
-    "image_filename": "story_1700.png"
-  },
-  {
-    "id": "d569f963-a373-4b41-b408-4d4cd14fbce5-r_index-2026-10-16T16:00:00.000Z",
-    "show_title": "LIVE STREAMING @ L863",
-    "artist_name": "daisytwo",
+    "id": "4853561a-8386-4977-9f29-1ff07483af3c-r_index-2026-10-17T16:00:00.000Z",
+    "show_title": "LIVE STREAMING @ L863 - CHRONICLE",
+    "artist_name": "Motja",
     "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d052e9ab-d3d0-4a79-b7bb-0432acd1f3f6/2026-10-13T08:47:55.185Z-1024x1024.jpg",
-    "start_iso": "2026-10-16T18:00:00+02:00",
-    "end_iso": "2026-10-16T19:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9cc166a4-8761-458f-bcae-22cddfb7005d/2026-10-09T07:33:20.413Z-1024x1024.jpg",
+    "start_iso": "2026-10-17T18:00:00+02:00",
+    "end_iso": "2026-10-17T19:00:00+02:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "466b6e4f-729b-4457-8a8b-c9739c52213c-r_index-2026-10-16T17:00:00.000Z",
-    "show_title": "LIVE STRAMING @ L863 - PBJ TIME",
-    "artist_name": "Peanut Butter Jelly Crew",
+    "id": "6c384d65-83c9-4f6c-ab94-dfa20ddb5bd7-r_index-2026-10-17T17:00:00.000Z",
+    "show_title": "LIVE STREAMING @ L863 - DISPERSO",
+    "artist_name": "Delma",
     "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/65464f99-2d71-4fd6-a09a-d6d226073af7/2026-10-13T08:44:36.154Z-1024x1024.jpg",
-    "start_iso": "2026-10-16T19:00:00+02:00",
-    "end_iso": "2026-10-16T20:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9d5d6316-2310-4889-9479-1b485fc502dc/2026-09-07T16:56:21.622Z-1024x1024.jpg",
+    "start_iso": "2026-10-17T19:00:00+02:00",
+    "end_iso": "2026-10-17T20:00:00+02:00",
     "image_filename": "story_1900.png"
   },
   {
-    "id": "d3aa174a-665c-4a24-b6dc-a6e01bdb5499-r_index-2026-10-16T20:00:00.000Z",
-    "show_title": "DIRTY BOOGIE RADIO",
-    "artist_name": "Elestre & Tibo BRTZ",
-    "time_str": "22:00 - 23:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/67db8f1c-a7fe-4709-967e-ce0d2d015816/2026-10-11T13:15:33.172Z-1024x1024.jpg",
-    "start_iso": "2026-10-16T22:00:00+02:00",
-    "end_iso": "2026-10-16T23:00:00+02:00",
-    "image_filename": "story_2200.png"
-  },
-  {
-    "id": "db7694aa-90d0-416b-bb1e-86eddc59d17c-r_index-2026-10-16T21:00:00.000Z",
-    "show_title": "ALTAR OF THE SKY",
-    "artist_name": "Lúpa Lux & Silky Disturbance",
-    "time_str": "23:00 - 00:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/f09754d0-0d4e-4be4-a923-a22258136599/2026-09-08T11:24:48.712Z-1024x1024.jpg",
-    "start_iso": "2026-10-16T23:00:00+02:00",
-    "end_iso": "2026-10-17T00:00:00+02:00",
-    "image_filename": "story_2300.png"
+    "id": "d828e2a7-240d-4043-8868-b836dd85b07c-r_index-2026-10-17T18:00:00.000Z",
+    "show_title": "LIVE STREAMING @ L863 - ESOTERISMO ELETTRONICO",
+    "artist_name": "DE SELECTA",
+    "time_str": "20:00 - 21:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b76e112b-42c7-4322-b9d8-78a0f1b9c783/2026-10-09T07:33:08.104Z-1024x1024.jpg",
+    "start_iso": "2026-10-17T20:00:00+02:00",
+    "end_iso": "2026-10-17T21:00:00+02:00",
+    "image_filename": "story_2000.png"
   }
 ]
