@@ -1,32 +1,32 @@
 [
   {
-    "id": "4853561a-8386-4977-9f29-1ff07483af3c-r_index-2026-10-17T16:00:00.000Z",
-    "show_title": "LIVE STREAMING @ L863 - CHRONICLE",
-    "artist_name": "Motja",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9cc166a4-8761-458f-bcae-22cddfb7005d/2026-10-09T07:33:20.413Z-1024x1024.jpg",
-    "start_iso": "2026-10-17T18:00:00+02:00",
-    "end_iso": "2026-10-17T19:00:00+02:00",
-    "image_filename": "story_1800.png"
+    "id": "e6d7a703-a578-40a8-a262-d01bc42bce87-r_index-2026-10-19T15:00:00.000Z",
+    "show_title": "SUGAR CANE FIELDS FOREVER. FROM THE AMAZONIAN RIVER TO THE PACIFIC SEA",
+    "artist_name": "Pueblo Fantasma",
+    "time_str": "17:00 - 18:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/347689fc-41bc-4e0e-aa9e-b4402b9fbe33/2026-10-15T10:01:01.156Z-1024x1024.jpg",
+    "start_iso": "2026-10-19T17:00:00+02:00",
+    "end_iso": "2026-10-19T18:00:00+02:00",
+    "image_filename": "story_1700.png"
   },
   {
-    "id": "6c384d65-83c9-4f6c-ab94-dfa20ddb5bd7-r_index-2026-10-17T17:00:00.000Z",
-    "show_title": "LIVE STREAMING @ L863 - DISPERSO",
-    "artist_name": "Delma",
+    "id": "d25c503b-060a-4aab-afba-32b9e177b957-r_index-2026-10-19T17:00:00.000Z",
+    "show_title": "ABBRACCIO ZEROGRAVITY",
+    "artist_name": "ragazzaclan",
     "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9d5d6316-2310-4889-9479-1b485fc502dc/2026-09-07T16:56:21.622Z-1024x1024.jpg",
-    "start_iso": "2026-10-17T19:00:00+02:00",
-    "end_iso": "2026-10-17T20:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/fe22f589-3a05-4c75-84c5-e915e2b96eee/2026-10-15T10:01:20.375Z-1024x1024.jpg",
+    "start_iso": "2026-10-19T19:00:00+02:00",
+    "end_iso": "2026-10-19T20:00:00+02:00",
     "image_filename": "story_1900.png"
   },
   {
-    "id": "d828e2a7-240d-4043-8868-b836dd85b07c-r_index-2026-10-17T18:00:00.000Z",
-    "show_title": "LIVE STREAMING @ L863 - ESOTERISMO ELETTRONICO",
-    "artist_name": "DE SELECTA",
-    "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b76e112b-42c7-4322-b9d8-78a0f1b9c783/2026-10-09T07:33:08.104Z-1024x1024.jpg",
-    "start_iso": "2026-10-17T20:00:00+02:00",
-    "end_iso": "2026-10-17T21:00:00+02:00",
-    "image_filename": "story_2000.png"
+    "id": "b854fed4-4a7f-42ea-aa2b-692638573c35",
+    "show_title": "PROMISES",
+    "artist_name": "Persie",
+    "time_str": "21:00 - 23:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/0178acb2-5f62-4b62-bb22-8cf9c72614ff/2026-10-13T09:51:04.846Z-1024x1024.jpg",
+    "start_iso": "2026-10-19T21:00:00+02:00",
+    "end_iso": "2026-10-19T23:00:00+02:00",
+    "image_filename": "story_2100.png"
   }
 ]
