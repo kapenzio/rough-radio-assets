@@ -1,32 +1,42 @@
 [
   {
-    "id": "4e36bb48-6878-440f-bddf-f928143d8f91-r_index-2026-10-20T15:00:00.000Z",
-    "show_title": "REMIXTAPE1",
-    "artist_name": "C. Gia",
+    "id": "a550034c-83de-412a-9c34-e76fd8dff62a-r_index-2026-10-21T15:00:00.000Z",
+    "show_title": "PRESSURE DROP",
+    "artist_name": "Sista Bene",
     "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d44cc7c2-fbb0-4b83-b904-4581f3657d31/2026-10-18T11:53:39.370Z-1024x1024.jpg",
-    "start_iso": "2026-10-20T17:00:00+02:00",
-    "end_iso": "2026-10-20T18:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/04a45346-f2b6-4d62-bb12-0073fbf4f72b/2026-10-13T09:58:57.931Z-1024x1024.jpg",
+    "start_iso": "2026-10-21T17:00:00+02:00",
+    "end_iso": "2026-10-21T18:00:00+02:00",
     "image_filename": "story_1700.png"
   },
   {
-    "id": "9dcb4cd0-b941-4c16-8ead-0a00c4a92db2-r_index-2026-10-20T16:00:00.000Z",
-    "show_title": "PUSSY NOISE",
-    "artist_name": "cyborgpussywitch",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/3c7ce267-36ad-47c1-a558-d13214c8aafe/2026-09-08T08:24:09.772Z-1024x1024.jpg",
-    "start_iso": "2026-10-20T18:00:00+02:00",
-    "end_iso": "2026-10-20T19:00:00+02:00",
+    "id": "8db316f0-f1fc-4e3c-a99c-c97c1ed27f8c-r_index-2026-10-21T16:00:00.000Z",
+    "show_title": "ECLECDIGS",
+    "artist_name": "Brett Eclectic",
+    "time_str": "18:00 - 20:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e6656007-ba0a-4ecd-aded-8e549f4036a8/2026-09-08T08:43:53.908Z-1024x1024.jpg",
+    "start_iso": "2026-10-21T18:00:00+02:00",
+    "end_iso": "2026-10-21T20:00:00+02:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "1900af5e-d478-4e56-9083-0445c01ea85f-r_index-2026-10-20T17:00:00.000Z",
-    "show_title": "EMERAI PRES IRKA",
-    "artist_name": "Montse",
-    "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/4663d228-328f-4965-9dcd-e5c944d6f327/2026-10-20T08:31:08.329Z-1024x1024.jpg",
-    "start_iso": "2026-10-20T19:00:00+02:00",
-    "end_iso": "2026-10-20T20:00:00+02:00",
-    "image_filename": "story_1900.png"
+    "id": "3d45c430-04ee-4588-9b5a-882771fbcb8c-r_index-2026-10-21T19:00:00.000Z",
+    "show_title": "KALA KALA [玩具]",
+    "artist_name": "Yuddy Ash",
+    "time_str": "21:00 - 22:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/03dbe3be-d880-4d4e-8f8b-6c55be6f0cea/2026-10-13T09:59:56.456Z-1024x1024.jpg",
+    "start_iso": "2026-10-21T21:00:00+02:00",
+    "end_iso": "2026-10-21T22:00:00+02:00",
+    "image_filename": "story_2100.png"
+  },
+  {
+    "id": "995920fc-a425-4a7a-9c76-ac3635b21265-r_index-2026-10-21T20:00:00.000Z",
+    "show_title": "TWILIGHT ZONE",
+    "artist_name": "Ushara & Maxime Denuc",
+    "time_str": "22:00 - 00:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/530864b1-0b45-4d84-8927-18a9a06fb22d/2026-10-18T11:57:36.840Z-1024x1024.jpg",
+    "start_iso": "2026-10-21T22:00:00+02:00",
+    "end_iso": "2026-10-22T00:00:00+02:00",
+    "image_filename": "story_2200.png"
   }
 ]
