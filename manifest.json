@@ -1,42 +1,52 @@
 [
   {
-    "id": "a550034c-83de-412a-9c34-e76fd8dff62a-r_index-2026-10-21T15:00:00.000Z",
-    "show_title": "PRESSURE DROP",
-    "artist_name": "Sista Bene",
+    "id": "9f37b6b3-bd43-4125-b0e7-2a1ff62d5543-r_index-2026-10-22T15:00:00.000Z",
+    "show_title": "GANGA RADIO",
+    "artist_name": "Debi Wallace",
     "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/04a45346-f2b6-4d62-bb12-0073fbf4f72b/2026-10-13T09:58:57.931Z-1024x1024.jpg",
-    "start_iso": "2026-10-21T17:00:00+02:00",
-    "end_iso": "2026-10-21T18:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/27b160dd-5147-4979-a743-eee7ebff3193/2026-09-14T18:34:42.409Z-1024x1024.jpg",
+    "start_iso": "2026-10-22T17:00:00+02:00",
+    "end_iso": "2026-10-22T18:00:00+02:00",
     "image_filename": "story_1700.png"
   },
   {
-    "id": "8db316f0-f1fc-4e3c-a99c-c97c1ed27f8c-r_index-2026-10-21T16:00:00.000Z",
-    "show_title": "ECLECDIGS",
-    "artist_name": "Brett Eclectic",
-    "time_str": "18:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e6656007-ba0a-4ecd-aded-8e549f4036a8/2026-09-08T08:43:53.908Z-1024x1024.jpg",
-    "start_iso": "2026-10-21T18:00:00+02:00",
-    "end_iso": "2026-10-21T20:00:00+02:00",
+    "id": "e8c104c0-8ac6-48fe-aa6d-6964a52467e9-r_index-2026-10-22T16:00:00.000Z",
+    "show_title": "DEMI DANCE SESSIONS",
+    "artist_name": "Marco Upset",
+    "time_str": "18:00 - 19:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/842714b8-e260-4679-8c39-5f168a3062f6/2026-10-18T12:37:16.084Z-1024x1024.jpg",
+    "start_iso": "2026-10-22T18:00:00+02:00",
+    "end_iso": "2026-10-22T19:00:00+02:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "3d45c430-04ee-4588-9b5a-882771fbcb8c-r_index-2026-10-21T19:00:00.000Z",
-    "show_title": "KALA KALA [玩具]",
-    "artist_name": "Yuddy Ash",
-    "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/03dbe3be-d880-4d4e-8f8b-6c55be6f0cea/2026-10-13T09:59:56.456Z-1024x1024.jpg",
-    "start_iso": "2026-10-21T21:00:00+02:00",
-    "end_iso": "2026-10-21T22:00:00+02:00",
-    "image_filename": "story_2100.png"
+    "id": "a92eb264-97e0-458f-9e76-bb339ed40558",
+    "show_title": "DISCHI VOLANTI",
+    "artist_name": "DJ Indulgence",
+    "time_str": "19:00 - 20:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d5ddb828-4b5b-44e5-9b01-1a2f6660be7c/2026-10-13T10:06:14.425Z-1024x1024.jpg",
+    "start_iso": "2026-10-22T19:00:00+02:00",
+    "end_iso": "2026-10-22T20:00:00+02:00",
+    "image_filename": "story_1900.png"
   },
   {
-    "id": "995920fc-a425-4a7a-9c76-ac3635b21265-r_index-2026-10-21T20:00:00.000Z",
-    "show_title": "TWILIGHT ZONE",
-    "artist_name": "Ushara & Maxime Denuc",
-    "time_str": "22:00 - 00:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/530864b1-0b45-4d84-8927-18a9a06fb22d/2026-10-18T11:57:36.840Z-1024x1024.jpg",
-    "start_iso": "2026-10-21T22:00:00+02:00",
-    "end_iso": "2026-10-22T00:00:00+02:00",
-    "image_filename": "story_2200.png"
+    "id": "df79e46a-caf9-4c30-b958-e34b4d86f4c6-r_index-2026-10-22T18:00:00.000Z",
+    "show_title": "IDRIS MBAYE PRES WEATHER ARCHIVE",
+    "artist_name": "Idris Mbaye",
+    "time_str": "20:00 - 21:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/fec74ee3-7bad-46b5-9f02-2e7f1ce743b8/2026-10-21T08:13:24.850Z-1024x1024.jpg",
+    "start_iso": "2026-10-22T20:00:00+02:00",
+    "end_iso": "2026-10-22T21:00:00+02:00",
+    "image_filename": "story_2000.png"
+  },
+  {
+    "id": "068ea312-6a79-489f-8789-b528535c3949-r_index-2026-10-22T19:00:00.000Z",
+    "show_title": "POLYRITMICA",
+    "artist_name": "Naaz",
+    "time_str": "21:00 - 22:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/0873f651-50e4-4a32-9fe0-554733b3615f/2026-10-13T10:08:01.883Z-1024x1024.jpg",
+    "start_iso": "2026-10-22T21:00:00+02:00",
+    "end_iso": "2026-10-22T22:00:00+02:00",
+    "image_filename": "story_2100.png"
   }
 ]
