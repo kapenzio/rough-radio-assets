@@ -1,52 +1,22 @@
 [
   {
-    "id": "9f37b6b3-bd43-4125-b0e7-2a1ff62d5543-r_index-2026-10-22T15:00:00.000Z",
-    "show_title": "GANGA RADIO",
-    "artist_name": "Debi Wallace",
-    "time_str": "17:00 - 18:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/27b160dd-5147-4979-a743-eee7ebff3193/2026-09-14T18:34:42.409Z-1024x1024.jpg",
-    "start_iso": "2026-10-22T17:00:00+02:00",
-    "end_iso": "2026-10-22T18:00:00+02:00",
-    "image_filename": "story_1700.png"
-  },
-  {
-    "id": "e8c104c0-8ac6-48fe-aa6d-6964a52467e9-r_index-2026-10-22T16:00:00.000Z",
-    "show_title": "DEMI DANCE SESSIONS",
-    "artist_name": "Marco Upset",
-    "time_str": "18:00 - 19:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/842714b8-e260-4679-8c39-5f168a3062f6/2026-10-18T12:37:16.084Z-1024x1024.jpg",
-    "start_iso": "2026-10-22T18:00:00+02:00",
-    "end_iso": "2026-10-22T19:00:00+02:00",
-    "image_filename": "story_1800.png"
-  },
-  {
-    "id": "a92eb264-97e0-458f-9e76-bb339ed40558",
-    "show_title": "DISCHI VOLANTI",
-    "artist_name": "DJ Indulgence",
-    "time_str": "19:00 - 20:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d5ddb828-4b5b-44e5-9b01-1a2f6660be7c/2026-10-13T10:06:14.425Z-1024x1024.jpg",
-    "start_iso": "2026-10-22T19:00:00+02:00",
-    "end_iso": "2026-10-22T20:00:00+02:00",
-    "image_filename": "story_1900.png"
-  },
-  {
-    "id": "df79e46a-caf9-4c30-b958-e34b4d86f4c6-r_index-2026-10-22T18:00:00.000Z",
-    "show_title": "IDRIS MBAYE PRES WEATHER ARCHIVE",
-    "artist_name": "Idris Mbaye",
-    "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/fec74ee3-7bad-46b5-9f02-2e7f1ce743b8/2026-10-21T08:13:24.850Z-1024x1024.jpg",
-    "start_iso": "2026-10-22T20:00:00+02:00",
-    "end_iso": "2026-10-22T21:00:00+02:00",
-    "image_filename": "story_2000.png"
-  },
-  {
-    "id": "068ea312-6a79-489f-8789-b528535c3949-r_index-2026-10-22T19:00:00.000Z",
-    "show_title": "POLYRITMICA",
-    "artist_name": "Naaz",
+    "id": "8a1d5da6-19ed-4f8c-9e65-eae5150f8fb4-r_index-2026-10-23T19:00:00.000Z",
+    "show_title": "LOST IN SOUNDSCAPE",
+    "artist_name": "Treaz aka 3AZ",
     "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/0873f651-50e4-4a32-9fe0-554733b3615f/2026-10-13T10:08:01.883Z-1024x1024.jpg",
-    "start_iso": "2026-10-22T21:00:00+02:00",
-    "end_iso": "2026-10-22T22:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8d3b08f1-2c48-48aa-af69-c03fcef08555/2026-10-23T09:00:33.614Z-1024x1024.jpg",
+    "start_iso": "2026-10-23T21:00:00+02:00",
+    "end_iso": "2026-10-23T22:00:00+02:00",
     "image_filename": "story_2100.png"
+  },
+  {
+    "id": "1c63eba4-de38-4ba8-883a-9dd04dad4f23-r_index-2026-10-23T21:00:00.000Z",
+    "show_title": "AFTER SYID",
+    "artist_name": "Syid",
+    "time_str": "23:00 - 00:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8aa74789-63eb-4a30-8a58-c13b6c458819/2026-09-22T17:46:59.120Z-1024x1024.jpg",
+    "start_iso": "2026-10-23T23:00:00+02:00",
+    "end_iso": "2026-10-24T00:00:00+02:00",
+    "image_filename": "story_2300.png"
   }
 ]
