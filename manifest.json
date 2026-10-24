@@ -1,22 +1,22 @@
 [
   {
-    "id": "8a1d5da6-19ed-4f8c-9e65-eae5150f8fb4-r_index-2026-10-23T19:00:00.000Z",
-    "show_title": "LOST IN SOUNDSCAPE",
-    "artist_name": "Treaz aka 3AZ",
-    "time_str": "21:00 - 22:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8d3b08f1-2c48-48aa-af69-c03fcef08555/2026-10-23T09:00:33.614Z-1024x1024.jpg",
-    "start_iso": "2026-10-23T21:00:00+02:00",
-    "end_iso": "2026-10-23T22:00:00+02:00",
-    "image_filename": "story_2100.png"
+    "id": "84dcfc45-fcb2-4913-8836-37f1d3f74d87-r_index-2026-10-24T18:00:00.000Z",
+    "show_title": "LIVE STRAMING @ L863",
+    "artist_name": "Auto Lizii",
+    "time_str": "20:00 - 21:00 CEST",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b76e112b-42c7-4322-b9d8-78a0f1b9c783/2026-10-09T07:33:08.104Z-1024x1024.jpg",
+    "start_iso": "2026-10-24T20:00:00+02:00",
+    "end_iso": "2026-10-24T21:00:00+02:00",
+    "image_filename": "story_2000.png"
   },
   {
-    "id": "1c63eba4-de38-4ba8-883a-9dd04dad4f23-r_index-2026-10-23T21:00:00.000Z",
-    "show_title": "AFTER SYID",
-    "artist_name": "Syid",
+    "id": "13fa1485-0dbf-4b1a-93b9-a57fa8cb1a54-r_index-2026-10-24T21:00:00.000Z",
+    "show_title": "PYTECA SELECTA",
+    "artist_name": "Giuseppe Falivene",
     "time_str": "23:00 - 00:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8aa74789-63eb-4a30-8a58-c13b6c458819/2026-09-22T17:46:59.120Z-1024x1024.jpg",
-    "start_iso": "2026-10-23T23:00:00+02:00",
-    "end_iso": "2026-10-24T00:00:00+02:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/00b544aa-6ca1-4219-b7a6-2af23302bec2/2026-09-15T10:03:28.791Z-1024x1024.jpg",
+    "start_iso": "2026-10-24T23:00:00+02:00",
+    "end_iso": "2026-10-25T00:00:00+02:00",
     "image_filename": "story_2300.png"
   }
 ]
