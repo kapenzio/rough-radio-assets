@@ -1,22 +1,42 @@
 [
   {
-    "id": "84dcfc45-fcb2-4913-8836-37f1d3f74d87-r_index-2026-10-24T18:00:00.000Z",
-    "show_title": "LIVE STRAMING @ L863",
-    "artist_name": "Auto Lizii",
-    "time_str": "20:00 - 21:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b76e112b-42c7-4322-b9d8-78a0f1b9c783/2026-10-09T07:33:08.104Z-1024x1024.jpg",
-    "start_iso": "2026-10-24T20:00:00+02:00",
-    "end_iso": "2026-10-24T21:00:00+02:00",
+    "id": "ca9dfbc1-c692-4113-b5c2-c8902495fa61",
+    "show_title": "TAPE TALE RECORDS 10 YEARS ANNIVERSARY ",
+    "artist_name": "Loris Ligonzo, Alex Palmieri, STRADA",
+    "time_str": "18:00 - 20:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/ab21c978-0773-4692-8ac2-128167f644f7/2026-10-23T10:59:55.144Z-1024x1024.jpg",
+    "start_iso": "2026-10-25T18:00:00+01:00",
+    "end_iso": "2026-10-25T20:00:00+01:00",
+    "image_filename": "story_1800.png"
+  },
+  {
+    "id": "df328659-f001-4165-9043-aa587ecaaa51-r_index-2026-10-25T19:00:00.000Z",
+    "show_title": "NONLOCALITY",
+    "artist_name": "semi-structured data",
+    "time_str": "20:00 - 21:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c40eecd8-cca0-48a0-849a-615d4ffd6fef/2026-09-17T07:54:55.034Z-1024x1024.jpg",
+    "start_iso": "2026-10-25T20:00:00+01:00",
+    "end_iso": "2026-10-25T21:00:00+01:00",
     "image_filename": "story_2000.png"
   },
   {
-    "id": "13fa1485-0dbf-4b1a-93b9-a57fa8cb1a54-r_index-2026-10-24T21:00:00.000Z",
-    "show_title": "PYTECA SELECTA",
-    "artist_name": "Giuseppe Falivene",
-    "time_str": "23:00 - 00:00 CEST",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/00b544aa-6ca1-4219-b7a6-2af23302bec2/2026-09-15T10:03:28.791Z-1024x1024.jpg",
-    "start_iso": "2026-10-24T23:00:00+02:00",
-    "end_iso": "2026-10-25T00:00:00+02:00",
-    "image_filename": "story_2300.png"
+    "id": "2a919618-f3a9-4fa1-a06d-62e28bb639b1-r_index-2026-10-25T20:00:00.000Z",
+    "show_title": "FLOWCONTROL",
+    "artist_name": "SEF",
+    "time_str": "21:00 - 22:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cc1ff5bc-005a-4213-a1b5-2dfc1b8aedbc/2026-09-14T18:51:36.752Z-1024x1024.jpg",
+    "start_iso": "2026-10-25T21:00:00+01:00",
+    "end_iso": "2026-10-25T22:00:00+01:00",
+    "image_filename": "story_2100.png"
+  },
+  {
+    "id": "a2a8783b-e361-4186-8dc8-631db7366781-r_index-2026-10-25T21:00:00.000Z",
+    "show_title": "WAIT_NOISE",
+    "artist_name": "Chelidon Frame",
+    "time_str": "22:00 - 23:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5127528c-39cf-4b29-aee9-e7cad175ed23/2026-10-22T12:32:23.531Z-1024x1024.jpg",
+    "start_iso": "2026-10-25T22:00:00+01:00",
+    "end_iso": "2026-10-25T23:00:00+01:00",
+    "image_filename": "story_2200.png"
   }
 ]
