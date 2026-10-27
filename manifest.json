@@ -1,32 +1,32 @@
 [
   {
-    "id": "7d4f69e4-35ce-4e09-adfe-ed423b90c210-r_index-2026-10-26T17:00:00.000Z",
-    "show_title": "THE KEYS TO HEAVEN ARE PINK, DIDN'T YOU KNOW?",
-    "artist_name": "rosachiavi",
-    "time_str": "18:00 - 19:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/bf2df3d6-8163-4364-80b1-bc9daf60e7d2/2026-09-24T10:30:46.009Z-1024x1024.jpg",
-    "start_iso": "2026-10-26T18:00:00+01:00",
-    "end_iso": "2026-10-26T19:00:00+01:00",
-    "image_filename": "story_1800.png"
+    "id": "989ec27c-0ac3-4c6a-b245-b7779f00c6fc",
+    "show_title": "MOLECOLA BIRB",
+    "artist_name": "VLKBIRBONA",
+    "time_str": "16:00 - 17:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/593e4e9a-d64c-47ff-81d6-662bd32fb9b8/2026-10-25T08:25:31.920Z-1024x1024.jpg",
+    "start_iso": "2026-10-27T16:00:00+01:00",
+    "end_iso": "2026-10-27T17:00:00+01:00",
+    "image_filename": "story_1600.png"
   },
   {
-    "id": "299192ee-3d50-48ed-ad39-950310cfc9ff-r_index-2026-10-26T18:00:00.000Z",
-    "show_title": "THE ROUGH TAPE",
-    "artist_name": "Nimdaselector",
-    "time_str": "19:00 - 20:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/121829cb-b728-4106-8592-c1d9614b146e/2026-09-24T10:32:23.983Z-1024x1024.jpg",
-    "start_iso": "2026-10-26T19:00:00+01:00",
-    "end_iso": "2026-10-26T20:00:00+01:00",
-    "image_filename": "story_1900.png"
+    "id": "a988c128-6d80-440a-9202-d3dbc1053067-r_index-2026-10-27T16:00:00.000Z",
+    "show_title": "SONIC ARTEFACTS",
+    "artist_name": "Missing Ear",
+    "time_str": "17:00 - 18:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/80e427cf-72f8-4711-8e76-3be9ae821d55/2026-09-14T18:19:32.583Z-1024x1024.jpg",
+    "start_iso": "2026-10-27T17:00:00+01:00",
+    "end_iso": "2026-10-27T18:00:00+01:00",
+    "image_filename": "story_1700.png"
   },
   {
-    "id": "41ef9b98-20e9-4466-bccc-79f8ad78bfdb",
-    "show_title": "ACERVO DO GRAVE",
-    "artist_name": "ZRA",
-    "time_str": "20:00 - 21:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/21c5a852-3f20-4dab-b9cd-950b016a894b/2026-10-26T08:55:59.394Z-1024x1024.jpg",
-    "start_iso": "2026-10-26T20:00:00+01:00",
-    "end_iso": "2026-10-26T21:00:00+01:00",
-    "image_filename": "story_2000.png"
+    "id": "25c1c18b-576c-4703-9d1b-0e1c93fabd5a-r_index-2026-10-27T22:00:00.000Z",
+    "show_title": "B4 CITY SOUNDS",
+    "artist_name": "Social Machine",
+    "time_str": "23:00 - 00:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c635a425-cc6a-4ab6-b36d-39ab92e87f76/2026-09-14T18:26:49.294Z-1024x1024.jpg",
+    "start_iso": "2026-10-27T23:00:00+01:00",
+    "end_iso": "2026-10-28T00:00:00+01:00",
+    "image_filename": "story_2300.png"
   }
 ]
