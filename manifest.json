@@ -1,42 +1,32 @@
 [
   {
-    "id": "3a56f084-c9b1-4abb-9010-2a2fa03e5c63-r_index-2026-10-28T14:00:00.000Z",
-    "show_title": "MERCURY'S MAGIC FLUTE",
-    "artist_name": "Lia Spadoni",
-    "time_str": "15:00 - 16:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d1612853-d82c-4d8e-838a-d1656809efef/2026-10-27T13:51:37.315Z-1024x1024.jpg",
-    "start_iso": "2026-10-28T15:00:00+01:00",
-    "end_iso": "2026-10-28T16:00:00+01:00",
-    "image_filename": "story_1500.png"
-  },
-  {
-    "id": "9668633b-7ebc-4331-a57d-12847b384cf4-r_index-2026-10-28T15:00:00.000Z",
-    "show_title": "TRAIN SELECTA",
-    "artist_name": "Rxxmer",
-    "time_str": "16:00 - 17:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/0739c769-e996-45b7-9e4a-37aa269518f3/2026-09-14T18:31:27.399Z-1024x1024.jpg",
-    "start_iso": "2026-10-28T16:00:00+01:00",
-    "end_iso": "2026-10-28T17:00:00+01:00",
-    "image_filename": "story_1600.png"
-  },
-  {
-    "id": "05b1d97d-5556-49a6-9b91-9be9eee4f95c-r_index-2026-10-28T17:00:00.000Z",
-    "show_title": "RISONANZE MAGNETICHE NUCLEARI",
-    "artist_name": "araUKana",
+    "id": "0eb49426-6ecf-422d-bd2e-ba42b7a93669",
+    "show_title": "LIVE STRAMING @ L863 - ABBRACCIO ZEROGRAVITY",
+    "artist_name": "Ragazzaclan",
     "time_str": "18:00 - 19:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b2f42ae9-765a-47e0-a988-bc612bd5ac42/2026-10-25T08:32:56.827Z-1024x1024.jpg",
-    "start_iso": "2026-10-28T18:00:00+01:00",
-    "end_iso": "2026-10-28T19:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/65464f99-2d71-4fd6-a09a-d6d226073af7/2026-10-13T08:44:36.154Z-1024x1024.jpg",
+    "start_iso": "2026-10-31T18:00:00+01:00",
+    "end_iso": "2026-10-31T19:00:00+01:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "ea41c688-d241-4e76-b51d-b9ccf3ff5bc6-r_index-2026-10-28T21:00:00.000Z",
-    "show_title": "MONO NO AWARE",
-    "artist_name": "madeooh",
-    "time_str": "22:00 - 23:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/492fc372-066a-4214-aa42-34d87107c0a8/2026-10-25T08:34:43.160Z-1024x1024.jpg",
-    "start_iso": "2026-10-28T22:00:00+01:00",
-    "end_iso": "2026-10-28T23:00:00+01:00",
-    "image_filename": "story_2200.png"
+    "id": "84dcfc45-fcb2-4913-8836-37f1d3f74d87-r_index-2026-10-31T19:00:00.000Z",
+    "show_title": "LIVE STRAMING @ L863",
+    "artist_name": "Chiara Civello",
+    "time_str": "20:00 - 21:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b76e112b-42c7-4322-b9d8-78a0f1b9c783/2026-10-09T07:33:08.104Z-1024x1024.jpg",
+    "start_iso": "2026-10-31T20:00:00+01:00",
+    "end_iso": "2026-10-31T21:00:00+01:00",
+    "image_filename": "story_2000.png"
+  },
+  {
+    "id": "2af85ddf-d3ee-44ab-99a6-2e68eb164501",
+    "show_title": "EERIE FESTEN",
+    "artist_name": "Coeden",
+    "time_str": "21:00 - 00:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2300e87d-7f82-4044-9445-1849be5bcfa2/2026-10-30T20:31:48.720Z-1024x1024.jpg",
+    "start_iso": "2026-10-31T21:00:00+01:00",
+    "end_iso": "2026-11-01T00:00:00+01:00",
+    "image_filename": "story_2100.png"
   }
 ]
