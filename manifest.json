@@ -1,42 +1,52 @@
 [
   {
-    "id": "3f046672-f331-47dc-9157-d04daab86713-r_index-2026-11-05T17:00:00.000Z",
-    "show_title": "SAMI NIKOU PRES BORDERLESS TRANSIENTS",
-    "artist_name": "Mahan",
+    "id": "6bf3ab35-8060-48f9-ac8e-641462bfa0cf-r_index-2026-11-06T15:00:00.000Z",
+    "show_title": "MIND THE BASS",
+    "artist_name": "Sublime",
+    "time_str": "16:00 - 17:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cbed6236-ec57-4054-b5e2-33478312f964/2026-09-04T13:56:32.205Z-1024x1024.jpg",
+    "start_iso": "2026-11-06T16:00:00+01:00",
+    "end_iso": "2026-11-06T17:00:00+01:00",
+    "image_filename": "story_1600.png"
+  },
+  {
+    "id": "0403b229-78a4-45c2-9a63-c54cb7d9f50c-r_index-2026-11-06T16:00:00.000Z",
+    "show_title": "LIVE STRAMING @ L863",
+    "artist_name": "Rose Million",
+    "time_str": "17:00 - 18:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/41676d22-b182-499f-ac32-fd5501dca512/2026-11-03T10:04:46.445Z-1024x1024.jpg",
+    "start_iso": "2026-11-06T17:00:00+01:00",
+    "end_iso": "2026-11-06T18:00:00+01:00",
+    "image_filename": "story_1700.png"
+  },
+  {
+    "id": "dfda6789-bd35-4b08-ad42-9ae1e0c5af02-r_index-2026-11-06T17:00:00.000Z",
+    "show_title": "LIVE STRAMING @ L863",
+    "artist_name": "Bastian Balders",
     "time_str": "18:00 - 19:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/db0a792c-a6d0-4839-bf57-934dc23fc468/2026-11-02T10:20:59.786Z-1024x1024.jpg",
-    "start_iso": "2026-11-05T18:00:00+01:00",
-    "end_iso": "2026-11-05T19:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/ff0fe019-e0d9-420a-adeb-ad26633a354a/2026-10-27T17:51:16.413Z-1024x1024.jpg",
+    "start_iso": "2026-11-06T18:00:00+01:00",
+    "end_iso": "2026-11-06T19:00:00+01:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "957db01e-2883-45c1-ad82-fbec16b0e1a2",
-    "show_title": "CONTINUUM",
-    "artist_name": "Marco Passarani",
+    "id": "ae670a8d-1870-4d06-be13-69a93677c25e",
+    "show_title": "LIVE STRAMING @ L863",
+    "artist_name": "Ranma Entero",
     "time_str": "19:00 - 20:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2b3d15cb-a9d0-437d-9723-b4a120655393/2026-09-24T10:45:11.434Z-1024x1024.jpg",
-    "start_iso": "2026-11-05T19:00:00+01:00",
-    "end_iso": "2026-11-05T20:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/65464f99-2d71-4fd6-a09a-d6d226073af7/2026-10-13T08:44:36.154Z-1024x1024.jpg",
+    "start_iso": "2026-11-06T19:00:00+01:00",
+    "end_iso": "2026-11-06T20:00:00+01:00",
     "image_filename": "story_1900.png"
   },
   {
-    "id": "feee3b95-7a94-4a7a-8c80-f291dea163a7-r_index-2026-11-05T21:00:00.000Z",
-    "show_title": "HIDDEN CORE",
-    "artist_name": "INPASTE",
-    "time_str": "22:00 - 23:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/07c1542f-717f-4ad7-a287-0a97ca44feb0/2026-10-01T07:19:02.981Z-1024x1024.jpg",
-    "start_iso": "2026-11-05T22:00:00+01:00",
-    "end_iso": "2026-11-05T23:00:00+01:00",
-    "image_filename": "story_2200.png"
-  },
-  {
-    "id": "7ee7b55e-2f12-45b4-b243-dd78d00dbf65-r_index-2026-11-05T22:00:00.000Z",
-    "show_title": "IN BOCCA AL LUPO",
-    "artist_name": "Able Noise",
-    "time_str": "23:00 - 00:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/ce2947d7-e8db-4233-8791-de70358b04bb/2026-11-05T08:52:09.026Z-1024x1024.jpg",
-    "start_iso": "2026-11-05T23:00:00+01:00",
-    "end_iso": "2026-11-06T00:00:00+01:00",
-    "image_filename": "story_2300.png"
+    "id": "bf10b2ce-8409-435c-9b48-172faf4d2d53-r_index-2026-11-06T20:00:00.000Z",
+    "show_title": "ALCHEMY 1996",
+    "artist_name": "Slava Bogu",
+    "time_str": "21:00 - 22:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e649bd9b-2b32-4b36-8fa9-56b11127ca18/2026-11-02T10:30:17.061Z-1024x1024.jpg",
+    "start_iso": "2026-11-06T21:00:00+01:00",
+    "end_iso": "2026-11-06T22:00:00+01:00",
+    "image_filename": "story_2100.png"
   }
 ]
