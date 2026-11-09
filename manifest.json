@@ -1,32 +1,62 @@
 [
   {
-    "id": "0d3a2e10-a447-45cf-bb6d-febae43878d4-r_index-2026-11-08T17:00:00.000Z",
-    "show_title": "PIEDI VERI - DEDICATO AD UN PELUCHE",
-    "artist_name": "Beeba",
+    "id": "b11f8c90-f411-40b0-934d-a88e97f23b84-r_index-2026-11-09T13:00:00.000Z",
+    "show_title": "REFUSE",
+    "artist_name": "M.D.A.",
+    "time_str": "14:00 - 15:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2f2eb417-b498-4ce0-88ee-97c2b89b2605/2026-11-06T10:08:15.874Z-1024x1024.jpg",
+    "start_iso": "2026-11-09T14:00:00+01:00",
+    "end_iso": "2026-11-09T15:00:00+01:00",
+    "image_filename": "story_1400.png"
+  },
+  {
+    "id": "1c12f932-9545-43c6-bbc6-26f172816cb3-r_index-2026-11-09T16:00:00.000Z",
+    "show_title": "SLOW SONIC ALCHEMY",
+    "artist_name": "TEO",
+    "time_str": "17:00 - 18:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/351ee785-02da-4e3b-be71-ff305ac050d1/2026-09-08T08:14:56.104Z-1024x1024.jpg",
+    "start_iso": "2026-11-09T17:00:00+01:00",
+    "end_iso": "2026-11-09T18:00:00+01:00",
+    "image_filename": "story_1700.png"
+  },
+  {
+    "id": "00a719aa-cb62-4c28-b1e6-273bf5c58d06",
+    "show_title": "STICKY JUICE",
+    "artist_name": "Santospirito",
     "time_str": "18:00 - 19:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d9c66ec8-97e6-464d-b49d-d4b1d92984c6/2026-11-05T11:43:07.529Z-1024x1024.jpg",
-    "start_iso": "2026-11-08T18:00:00+01:00",
-    "end_iso": "2026-11-08T19:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/a445b494-3b82-46ca-b7dc-5de558069c04/2026-11-09T08:03:29.035Z-1024x1024.jpg",
+    "start_iso": "2026-11-09T18:00:00+01:00",
+    "end_iso": "2026-11-09T19:00:00+01:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "4c4787e7-aac2-48ba-a972-23a3b0b35158-r_index-2026-11-08T18:00:00.000Z",
-    "show_title": "LANDSCAPING",
-    "artist_name": "Silver Spirit",
+    "id": "c39d8dd1-93ef-4351-ac19-763ba3e40fb7-r_index-2026-11-09T18:00:00.000Z",
+    "show_title": "140° MINUTO",
+    "artist_name": "AVY",
     "time_str": "19:00 - 20:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c6d0c6e0-cb8f-4b27-bd83-019bb0cbc9a8/2026-09-07T11:40:04.400Z-1024x1024.jpg",
-    "start_iso": "2026-11-08T19:00:00+01:00",
-    "end_iso": "2026-11-08T20:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9aff5bc0-285e-457f-99c4-c6d89f2a2212/2026-09-09T08:37:32.626Z-1024x1024.jpg",
+    "start_iso": "2026-11-09T19:00:00+01:00",
+    "end_iso": "2026-11-09T20:00:00+01:00",
     "image_filename": "story_1900.png"
   },
   {
-    "id": "f18ec7cc-9a56-4501-84bb-8c58e59ee408-r_index-2026-11-08T19:00:00.000Z",
-    "show_title": "NERV RADIO SHOW",
-    "artist_name": "Lohrkraut",
+    "id": "26803a3b-99c0-4a3d-8da5-f11c1aee6634-r_index-2026-11-09T19:00:00.000Z",
+    "show_title": "BINARY DREAMSCAPES",
+    "artist_name": "Luyten",
     "time_str": "20:00 - 21:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b985c6b6-5860-454c-9070-ca50690c7fbd/2026-11-05T11:41:31.027Z-1024x1024.jpg",
-    "start_iso": "2026-11-08T20:00:00+01:00",
-    "end_iso": "2026-11-08T21:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/572f7a9e-e1d3-470f-8b46-750997d85390/2026-09-10T07:55:42.579Z-1024x1024.jpg",
+    "start_iso": "2026-11-09T20:00:00+01:00",
+    "end_iso": "2026-11-09T21:00:00+01:00",
     "image_filename": "story_2000.png"
+  },
+  {
+    "id": "9c7d99c7-b43f-4197-a5cd-44c0bb9cb061-r_index-2026-11-09T21:00:00.000Z",
+    "show_title": "PRIMAL TALES",
+    "artist_name": "MA\\E",
+    "time_str": "22:00 - 23:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/3f05d960-c9d0-4514-8c36-83cb82da808e/2026-09-12T09:53:08.368Z-1024x1024.jpg",
+    "start_iso": "2026-11-09T22:00:00+01:00",
+    "end_iso": "2026-11-09T23:00:00+01:00",
+    "image_filename": "story_2200.png"
   }
 ]
