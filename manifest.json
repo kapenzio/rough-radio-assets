@@ -1,62 +1,32 @@
 [
   {
-    "id": "b11f8c90-f411-40b0-934d-a88e97f23b84-r_index-2026-11-09T13:00:00.000Z",
-    "show_title": "REFUSE",
-    "artist_name": "M.D.A.",
-    "time_str": "14:00 - 15:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/2f2eb417-b498-4ce0-88ee-97c2b89b2605/2026-11-06T10:08:15.874Z-1024x1024.jpg",
-    "start_iso": "2026-11-09T14:00:00+01:00",
-    "end_iso": "2026-11-09T15:00:00+01:00",
-    "image_filename": "story_1400.png"
-  },
-  {
-    "id": "1c12f932-9545-43c6-bbc6-26f172816cb3-r_index-2026-11-09T16:00:00.000Z",
-    "show_title": "SLOW SONIC ALCHEMY",
-    "artist_name": "TEO",
-    "time_str": "17:00 - 18:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/351ee785-02da-4e3b-be71-ff305ac050d1/2026-09-08T08:14:56.104Z-1024x1024.jpg",
-    "start_iso": "2026-11-09T17:00:00+01:00",
-    "end_iso": "2026-11-09T18:00:00+01:00",
-    "image_filename": "story_1700.png"
-  },
-  {
-    "id": "00a719aa-cb62-4c28-b1e6-273bf5c58d06",
-    "show_title": "STICKY JUICE",
-    "artist_name": "Santospirito",
+    "id": "5e526212-96ef-48e3-96a5-c23a102a480d-r_index-2026-11-10T17:00:00.000Z",
+    "show_title": "SUBSTRATI SONORI",
+    "artist_name": "rubbe",
     "time_str": "18:00 - 19:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/a445b494-3b82-46ca-b7dc-5de558069c04/2026-11-09T08:03:29.035Z-1024x1024.jpg",
-    "start_iso": "2026-11-09T18:00:00+01:00",
-    "end_iso": "2026-11-09T19:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/3fefc501-fa6e-4bc3-a8ce-af3c97580429/2026-11-06T10:12:38.703Z-1024x1024.jpg",
+    "start_iso": "2026-11-10T18:00:00+01:00",
+    "end_iso": "2026-11-10T19:00:00+01:00",
     "image_filename": "story_1800.png"
   },
   {
-    "id": "c39d8dd1-93ef-4351-ac19-763ba3e40fb7-r_index-2026-11-09T18:00:00.000Z",
-    "show_title": "140° MINUTO",
-    "artist_name": "AVY",
+    "id": "7cf47d53-4c01-403f-a019-5830cc6d4a0e-r_index-2026-11-10T18:00:00.000Z",
+    "show_title": "IKIGAI",
+    "artist_name": "Mantis",
     "time_str": "19:00 - 20:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9aff5bc0-285e-457f-99c4-c6d89f2a2212/2026-09-09T08:37:32.626Z-1024x1024.jpg",
-    "start_iso": "2026-11-09T19:00:00+01:00",
-    "end_iso": "2026-11-09T20:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/49a01763-085e-4617-a9ca-c8ca8c670c4a/2026-09-07T07:15:03.562Z-1024x1024.jpg",
+    "start_iso": "2026-11-10T19:00:00+01:00",
+    "end_iso": "2026-11-10T20:00:00+01:00",
     "image_filename": "story_1900.png"
   },
   {
-    "id": "26803a3b-99c0-4a3d-8da5-f11c1aee6634-r_index-2026-11-09T19:00:00.000Z",
-    "show_title": "BINARY DREAMSCAPES",
-    "artist_name": "Luyten",
-    "time_str": "20:00 - 21:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/572f7a9e-e1d3-470f-8b46-750997d85390/2026-09-10T07:55:42.579Z-1024x1024.jpg",
-    "start_iso": "2026-11-09T20:00:00+01:00",
-    "end_iso": "2026-11-09T21:00:00+01:00",
-    "image_filename": "story_2000.png"
-  },
-  {
-    "id": "9c7d99c7-b43f-4197-a5cd-44c0bb9cb061-r_index-2026-11-09T21:00:00.000Z",
-    "show_title": "PRIMAL TALES",
-    "artist_name": "MA\\E",
+    "id": "0d5089bf-81d1-4998-b2a9-d35e1f5ddafb",
+    "show_title": "DUBBING THE EVERYDAY - NATCH BATCH RESTREAM",
+    "artist_name": "Slothmachines",
     "time_str": "22:00 - 23:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/3f05d960-c9d0-4514-8c36-83cb82da808e/2026-09-12T09:53:08.368Z-1024x1024.jpg",
-    "start_iso": "2026-11-09T22:00:00+01:00",
-    "end_iso": "2026-11-09T23:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/abc2b516-c47d-40b1-a682-b2046cbf517c/2026-09-07T07:17:16.858Z-1024x1024.jpg",
+    "start_iso": "2026-11-10T22:00:00+01:00",
+    "end_iso": "2026-11-10T23:00:00+01:00",
     "image_filename": "story_2200.png"
   }
 ]
