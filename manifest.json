@@ -1,32 +1,12 @@
 [
   {
-    "id": "4e36bb48-6878-440f-bddf-f928143d8f91-r_index-2026-11-17T16:00:00.000Z",
-    "show_title": "REMIXTAPE1",
-    "artist_name": "C. Gia",
-    "time_str": "17:00 - 18:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d44cc7c2-fbb0-4b83-b904-4581f3657d31/2026-11-15T09:27:32.966Z-1024x1024.jpg",
-    "start_iso": "2026-11-17T17:00:00+01:00",
-    "end_iso": "2026-11-17T18:00:00+01:00",
-    "image_filename": "story_1700.png"
-  },
-  {
-    "id": "9dcb4cd0-b941-4c16-8ead-0a00c4a92db2-r_index-2026-11-17T17:00:00.000Z",
-    "show_title": "PUSSY NOISE",
-    "artist_name": "cyborgpussywitch",
-    "time_str": "18:00 - 19:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/3c7ce267-36ad-47c1-a558-d13214c8aafe/2026-09-08T08:24:09.772Z-1024x1024.jpg",
-    "start_iso": "2026-11-17T18:00:00+01:00",
-    "end_iso": "2026-11-17T19:00:00+01:00",
+    "id": "8db316f0-f1fc-4e3c-a99c-c97c1ed27f8c-r_index-2026-11-18T17:00:00.000Z",
+    "show_title": "ECLECDIGS",
+    "artist_name": "Brett Eclectic",
+    "time_str": "18:00 - 20:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/e6656007-ba0a-4ecd-aded-8e549f4036a8/2026-09-08T08:43:53.908Z-1024x1024.jpg",
+    "start_iso": "2026-11-18T18:00:00+01:00",
+    "end_iso": "2026-11-18T20:00:00+01:00",
     "image_filename": "story_1800.png"
-  },
-  {
-    "id": "1900af5e-d478-4e56-9083-0445c01ea85f-r_index-2026-11-17T18:00:00.000Z",
-    "show_title": "IRKA",
-    "artist_name": "emerai",
-    "time_str": "19:00 - 20:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/4663d228-328f-4965-9dcd-e5c944d6f327/2026-11-15T09:50:02.685Z-1024x1024.jpg",
-    "start_iso": "2026-11-17T19:00:00+01:00",
-    "end_iso": "2026-11-17T20:00:00+01:00",
-    "image_filename": "story_1900.png"
   }
 ]
