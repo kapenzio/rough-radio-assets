@@ -1,62 +1,42 @@
 [
   {
-    "id": "628478b9-a073-467a-a273-a47e5c38115b-r_index-2026-11-19T14:00:00.000Z",
-    "show_title": "PANMEDITERRANEAN MIXING",
-    "artist_name": "AmuniHabibi",
-    "time_str": "15:00 - 16:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d773a47b-d55c-4bf8-b0a4-eb3f48bbbbc1/2026-11-15T09:24:16.281Z-1024x1024.jpg",
-    "start_iso": "2026-11-19T15:00:00+01:00",
-    "end_iso": "2026-11-19T16:00:00+01:00",
-    "image_filename": "story_1500.png"
-  },
-  {
-    "id": "9ca67a61-5cf5-4801-bec6-46618a213e7b",
-    "show_title": "DMT SOUND EMULATOR",
-    "artist_name": "Microvoto",
+    "id": "a47c0433-4b9a-499d-bab9-572999e3e321-r_index-2026-11-20T15:00:00.000Z",
+    "show_title": "TERIMA EKASI",
+    "artist_name": "Jiun",
     "time_str": "16:00 - 17:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/bc55a376-7dd2-4b79-afb8-b40324e1c12c/2026-11-17T18:26:51.188Z-1024x1024.jpg",
-    "start_iso": "2026-11-19T16:00:00+01:00",
-    "end_iso": "2026-11-19T17:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8a9a2f07-53ee-46b9-9f50-299925a19dd2/2026-11-16T07:58:02.392Z-1024x1024.jpg",
+    "start_iso": "2026-11-20T16:00:00+01:00",
+    "end_iso": "2026-11-20T17:00:00+01:00",
     "image_filename": "story_1600.png"
   },
   {
-    "id": "15fe6291-134b-4336-b3a9-6dc5915bed26",
-    "show_title": "DMT SOUND EMULATOR",
-    "artist_name": "Oltrefuturo",
-    "time_str": "17:00 - 18:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/13dbf27f-a611-408e-aadc-f7acfbb2f316/2026-11-17T18:26:59.486Z-1024x1024.jpg",
-    "start_iso": "2026-11-19T17:00:00+01:00",
-    "end_iso": "2026-11-19T18:00:00+01:00",
-    "image_filename": "story_1700.png"
+    "id": "85271e94-8ae9-4416-8705-1b3f9f530183-r_index-2026-11-20T20:00:00.000Z",
+    "show_title": "DISCO HOSPITAL",
+    "artist_name": "Arisu Neko",
+    "time_str": "21:00 - 22:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/92a13a05-5605-491d-9742-913deff286ce/2026-09-08T11:23:01.284Z-1024x1024.jpg",
+    "start_iso": "2026-11-20T21:00:00+01:00",
+    "end_iso": "2026-11-20T22:00:00+01:00",
+    "image_filename": "story_2100.png"
   },
   {
-    "id": "34aadf13-26e8-4e44-b2f8-090ea09fe761",
-    "show_title": "GUEST ARCHIVE",
-    "artist_name": "Marylou",
-    "time_str": "18:00 - 19:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/7dc3223d-6e5d-484e-b95a-5203ec79643b/2026-11-10T18:30:37.511Z-1024x1024.jpg",
-    "start_iso": "2026-11-19T18:00:00+01:00",
-    "end_iso": "2026-11-19T19:00:00+01:00",
-    "image_filename": "story_1800.png"
-  },
-  {
-    "id": "7e50b8da-b444-4590-a92f-39beefa7c9f1",
-    "show_title": "ALL LIUKK CAN EAT - FRITTO MARCHIGIANO",
-    "artist_name": "Lemonizz",
-    "time_str": "19:00 - 20:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/a18aab9c-a213-4ecc-a9e6-b725c9f94843/2026-11-17T18:23:00.473Z-1024x1024.jpg",
-    "start_iso": "2026-11-19T19:00:00+01:00",
-    "end_iso": "2026-11-19T20:00:00+01:00",
-    "image_filename": "story_1900.png"
-  },
-  {
-    "id": "44227e9d-67c4-426b-91b0-89b80ce72028",
-    "show_title": "ADEPTA ICONS_006",
-    "artist_name": "Pauk",
+    "id": "b5a146d6-cff0-4926-a22e-f1b6b2690a01",
+    "show_title": "DIRTY BOOGIE RADIO",
+    "artist_name": "Elestre & Tibo BRTZ",
     "time_str": "22:00 - 23:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5005eddc-85b5-4a08-b36f-47b91b4bf395/2026-11-16T07:49:49.335Z-1024x1024.jpg",
-    "start_iso": "2026-11-19T22:00:00+01:00",
-    "end_iso": "2026-11-19T23:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/67db8f1c-a7fe-4709-967e-ce0d2d015816/2026-11-20T09:51:39.320Z-1024x1024.jpg",
+    "start_iso": "2026-11-20T22:00:00+01:00",
+    "end_iso": "2026-11-20T23:00:00+01:00",
     "image_filename": "story_2200.png"
+  },
+  {
+    "id": "5a578763-7e9e-4f20-ba69-4903378febe5",
+    "show_title": "ALTAR OF THE SKY",
+    "artist_name": "Lúpa Lux & Monitor",
+    "time_str": "23:00 - 00:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/f09754d0-0d4e-4be4-a923-a22258136599/2026-09-08T11:24:48.712Z-1024x1024.jpg",
+    "start_iso": "2026-11-20T23:00:00+01:00",
+    "end_iso": "2026-11-21T00:00:00+01:00",
+    "image_filename": "story_2300.png"
   }
 ]
