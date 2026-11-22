@@ -1,42 +1,22 @@
 [
   {
-    "id": "a47c0433-4b9a-499d-bab9-572999e3e321-r_index-2026-11-20T15:00:00.000Z",
-    "show_title": "TERIMA EKASI",
-    "artist_name": "Jiun",
-    "time_str": "16:00 - 17:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8a9a2f07-53ee-46b9-9f50-299925a19dd2/2026-11-16T07:58:02.392Z-1024x1024.jpg",
-    "start_iso": "2026-11-20T16:00:00+01:00",
-    "end_iso": "2026-11-20T17:00:00+01:00",
-    "image_filename": "story_1600.png"
+    "id": "df328659-f001-4165-9043-aa587ecaaa51-r_index-2026-11-22T19:00:00.000Z",
+    "show_title": "NONLOCALITY",
+    "artist_name": "semi-structured data",
+    "time_str": "20:00 - 21:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c40eecd8-cca0-48a0-849a-615d4ffd6fef/2026-09-17T07:54:55.034Z-1024x1024.jpg",
+    "start_iso": "2026-11-22T20:00:00+01:00",
+    "end_iso": "2026-11-22T21:00:00+01:00",
+    "image_filename": "story_2000.png"
   },
   {
-    "id": "85271e94-8ae9-4416-8705-1b3f9f530183-r_index-2026-11-20T20:00:00.000Z",
-    "show_title": "DISCO HOSPITAL",
-    "artist_name": "Arisu Neko",
+    "id": "e91c502d-d568-4fa2-9b97-5810e194388e",
+    "show_title": "FLOWCONTROL",
+    "artist_name": "SEF",
     "time_str": "21:00 - 22:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/92a13a05-5605-491d-9742-913deff286ce/2026-09-08T11:23:01.284Z-1024x1024.jpg",
-    "start_iso": "2026-11-20T21:00:00+01:00",
-    "end_iso": "2026-11-20T22:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cc1ff5bc-005a-4213-a1b5-2dfc1b8aedbc/2026-09-14T18:51:36.752Z-1024x1024.jpg",
+    "start_iso": "2026-11-22T21:00:00+01:00",
+    "end_iso": "2026-11-22T22:00:00+01:00",
     "image_filename": "story_2100.png"
-  },
-  {
-    "id": "b5a146d6-cff0-4926-a22e-f1b6b2690a01",
-    "show_title": "DIRTY BOOGIE RADIO",
-    "artist_name": "Elestre & Tibo BRTZ",
-    "time_str": "22:00 - 23:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/67db8f1c-a7fe-4709-967e-ce0d2d015816/2026-11-20T09:51:39.320Z-1024x1024.jpg",
-    "start_iso": "2026-11-20T22:00:00+01:00",
-    "end_iso": "2026-11-20T23:00:00+01:00",
-    "image_filename": "story_2200.png"
-  },
-  {
-    "id": "5a578763-7e9e-4f20-ba69-4903378febe5",
-    "show_title": "ALTAR OF THE SKY",
-    "artist_name": "Lúpa Lux & Monitor",
-    "time_str": "23:00 - 00:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/f09754d0-0d4e-4be4-a923-a22258136599/2026-09-08T11:24:48.712Z-1024x1024.jpg",
-    "start_iso": "2026-11-20T23:00:00+01:00",
-    "end_iso": "2026-11-21T00:00:00+01:00",
-    "image_filename": "story_2300.png"
   }
 ]
