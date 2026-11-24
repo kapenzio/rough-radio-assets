@@ -1,22 +1,62 @@
 [
   {
-    "id": "df328659-f001-4165-9043-aa587ecaaa51-r_index-2026-11-22T19:00:00.000Z",
-    "show_title": "NONLOCALITY",
-    "artist_name": "semi-structured data",
-    "time_str": "20:00 - 21:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c40eecd8-cca0-48a0-849a-615d4ffd6fef/2026-09-17T07:54:55.034Z-1024x1024.jpg",
-    "start_iso": "2026-11-22T20:00:00+01:00",
-    "end_iso": "2026-11-22T21:00:00+01:00",
-    "image_filename": "story_2000.png"
+    "id": "7717ce84-0c92-43a7-9f54-127799e10d1b-r_index-2026-11-24T15:00:00.000Z",
+    "show_title": "LIMBO VIOLENTO",
+    "artist_name": "Magone",
+    "time_str": "16:00 - 17:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/5ee48b8d-ea12-4b80-83fa-a948551b454c/2026-09-24T10:40:47.718Z-1024x1024.jpg",
+    "start_iso": "2026-11-24T16:00:00+01:00",
+    "end_iso": "2026-11-24T17:00:00+01:00",
+    "image_filename": "story_1600.png"
   },
   {
-    "id": "e91c502d-d568-4fa2-9b97-5810e194388e",
-    "show_title": "FLOWCONTROL",
-    "artist_name": "SEF",
+    "id": "507ad1bd-133f-40d7-9cab-b2a65c09546c",
+    "show_title": "SONIC ARTEFACTS",
+    "artist_name": "Missing Ear and BeWider",
+    "time_str": "17:00 - 18:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/80e427cf-72f8-4711-8e76-3be9ae821d55/2026-09-14T18:19:32.583Z-1024x1024.jpg",
+    "start_iso": "2026-11-24T17:00:00+01:00",
+    "end_iso": "2026-11-24T18:00:00+01:00",
+    "image_filename": "story_1700.png"
+  },
+  {
+    "id": "ab904d85-d896-4109-8a6a-11dabecdee17",
+    "show_title": "INNER LIGHT",
+    "artist_name": "C1aeri",
+    "time_str": "18:00 - 19:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/b574efb3-e358-4a5b-8c1c-1250a8a2e7db/2026-09-14T18:20:45.471Z-1024x1024.jpg",
+    "start_iso": "2026-11-24T18:00:00+01:00",
+    "end_iso": "2026-11-24T19:00:00+01:00",
+    "image_filename": "story_1800.png"
+  },
+  {
+    "id": "9dae2bee-e4a3-46ad-90ad-f9f9013eef24",
+    "show_title": "NERODIFUMO",
+    "artist_name": "bzxz.domnyj",
+    "time_str": "19:00 - 20:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/1998a98d-4f7a-4ade-b85c-dbaba2f1a59b/2026-11-24T08:08:08.318Z-1024x1024.jpg",
+    "start_iso": "2026-11-24T19:00:00+01:00",
+    "end_iso": "2026-11-24T20:00:00+01:00",
+    "image_filename": "story_1900.png"
+  },
+  {
+    "id": "83f19c60-0122-4785-9be3-c2731530b2dd",
+    "show_title": "PECORELETTRICHE",
+    "artist_name": "TACHELES",
     "time_str": "21:00 - 22:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cc1ff5bc-005a-4213-a1b5-2dfc1b8aedbc/2026-09-14T18:51:36.752Z-1024x1024.jpg",
-    "start_iso": "2026-11-22T21:00:00+01:00",
-    "end_iso": "2026-11-22T22:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/1fc09831-dd38-40a3-8a94-19448e948c51/2026-09-14T18:25:04.933Z-1024x1024.jpg",
+    "start_iso": "2026-11-24T21:00:00+01:00",
+    "end_iso": "2026-11-24T22:00:00+01:00",
     "image_filename": "story_2100.png"
+  },
+  {
+    "id": "abd8fe35-8957-4dd7-901f-c6c4d2aefdc3",
+    "show_title": "SOCIAL MACHINE PRES B4 CITY SOUNDS",
+    "artist_name": "PINAUD",
+    "time_str": "23:00 - 00:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/c635a425-cc6a-4ab6-b36d-39ab92e87f76/2026-09-14T18:26:49.294Z-1024x1024.jpg",
+    "start_iso": "2026-11-24T23:00:00+01:00",
+    "end_iso": "2026-11-25T00:00:00+01:00",
+    "image_filename": "story_2300.png"
   }
 ]
