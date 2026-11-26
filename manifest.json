@@ -1,42 +1,42 @@
 [
   {
-    "id": "763f0cca-4fd5-4729-a5ca-0dc6d7dc8cee",
-    "show_title": "MERCURY'S MAGIC FLUTE",
-    "artist_name": "Lia Spadoni",
-    "time_str": "15:00 - 16:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d1612853-d82c-4d8e-838a-d1656809efef/2026-11-20T09:15:06.719Z-1024x1024.jpg",
-    "start_iso": "2026-11-25T15:00:00+01:00",
-    "end_iso": "2026-11-25T16:00:00+01:00",
-    "image_filename": "story_1500.png"
-  },
-  {
-    "id": "aa7f3b93-8c19-4b1c-9433-f3f3370646ba",
-    "show_title": "TRAIN SELECTA",
-    "artist_name": "Rxxmer",
-    "time_str": "16:00 - 17:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/0739c769-e996-45b7-9e4a-37aa269518f3/2026-09-14T18:31:27.399Z-1024x1024.jpg",
-    "start_iso": "2026-11-25T16:00:00+01:00",
-    "end_iso": "2026-11-25T17:00:00+01:00",
-    "image_filename": "story_1600.png"
-  },
-  {
-    "id": "96fae170-4044-41ba-a72a-f075a34bc249",
-    "show_title": "SCANZONATISSIMA",
-    "artist_name": "FROUGE",
+    "id": "0ed052e3-c29b-447f-978b-bb65858e5ec6",
+    "show_title": "GANGA RADIO",
+    "artist_name": "Debi Wallace",
     "time_str": "17:00 - 18:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/d3d4145f-5bb4-44c1-9e4d-f30ef921cc4c/2026-09-14T18:32:43.074Z-1024x1024.jpg",
-    "start_iso": "2026-11-25T17:00:00+01:00",
-    "end_iso": "2026-11-25T18:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/27b160dd-5147-4979-a743-eee7ebff3193/2026-09-14T18:34:42.409Z-1024x1024.jpg",
+    "start_iso": "2026-11-26T17:00:00+01:00",
+    "end_iso": "2026-11-26T18:00:00+01:00",
     "image_filename": "story_1700.png"
   },
   {
-    "id": "ff5f15a5-845a-4dd7-b617-57bd6a4292f8",
-    "show_title": "SEDIMENTARY MEMORY",
-    "artist_name": "Prieste5s",
+    "id": "58f955bc-caba-4dd3-b329-2e54a50ed326",
+    "show_title": "ECHOES OF THE UNKNOWN",
+    "artist_name": "cruisecontrol",
     "time_str": "18:00 - 19:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cb281920-7374-4e9c-9c11-88d935efb4f6/2026-09-30T10:51:55.542Z-1024x1024.jpg",
-    "start_iso": "2026-11-25T18:00:00+01:00",
-    "end_iso": "2026-11-25T19:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cd708e15-b252-4b83-99de-236e41043672/2026-11-22T17:42:48.842Z-1024x1024.jpg",
+    "start_iso": "2026-11-26T18:00:00+01:00",
+    "end_iso": "2026-11-26T19:00:00+01:00",
     "image_filename": "story_1800.png"
+  },
+  {
+    "id": "34e12753-fcd4-485d-843b-4bbccdcf4b96",
+    "show_title": "RAMEN RAVE RADIO",
+    "artist_name": "DJ Quietstorm",
+    "time_str": "19:00 - 20:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9ab60106-be6f-4337-b4ab-0d08bb3e7d4f/2026-11-15T09:28:51.743Z-1024x1024.jpg",
+    "start_iso": "2026-11-26T19:00:00+01:00",
+    "end_iso": "2026-11-26T20:00:00+01:00",
+    "image_filename": "story_1900.png"
+  },
+  {
+    "id": "faca61ee-9593-406d-8bf8-a6b43aaad619",
+    "show_title": "WEATHER ARCHIVE",
+    "artist_name": "Idris Mbaye",
+    "time_str": "20:00 - 21:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/fec74ee3-7bad-46b5-9f02-2e7f1ce743b8/2026-11-26T08:10:44.078Z-1024x1024.jpg",
+    "start_iso": "2026-11-26T20:00:00+01:00",
+    "end_iso": "2026-11-26T21:00:00+01:00",
+    "image_filename": "story_2000.png"
   }
 ]
