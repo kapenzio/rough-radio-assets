@@ -1,42 +1,32 @@
 [
   {
-    "id": "0ed052e3-c29b-447f-978b-bb65858e5ec6",
-    "show_title": "GANGA RADIO",
-    "artist_name": "Debi Wallace",
-    "time_str": "17:00 - 18:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/27b160dd-5147-4979-a743-eee7ebff3193/2026-09-14T18:34:42.409Z-1024x1024.jpg",
-    "start_iso": "2026-11-26T17:00:00+01:00",
-    "end_iso": "2026-11-26T18:00:00+01:00",
-    "image_filename": "story_1700.png"
-  },
-  {
-    "id": "58f955bc-caba-4dd3-b329-2e54a50ed326",
-    "show_title": "ECHOES OF THE UNKNOWN",
-    "artist_name": "cruisecontrol",
-    "time_str": "18:00 - 19:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/cd708e15-b252-4b83-99de-236e41043672/2026-11-22T17:42:48.842Z-1024x1024.jpg",
-    "start_iso": "2026-11-26T18:00:00+01:00",
-    "end_iso": "2026-11-26T19:00:00+01:00",
-    "image_filename": "story_1800.png"
-  },
-  {
-    "id": "34e12753-fcd4-485d-843b-4bbccdcf4b96",
-    "show_title": "RAMEN RAVE RADIO",
-    "artist_name": "DJ Quietstorm",
-    "time_str": "19:00 - 20:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/9ab60106-be6f-4337-b4ab-0d08bb3e7d4f/2026-11-15T09:28:51.743Z-1024x1024.jpg",
-    "start_iso": "2026-11-26T19:00:00+01:00",
-    "end_iso": "2026-11-26T20:00:00+01:00",
-    "image_filename": "story_1900.png"
-  },
-  {
-    "id": "faca61ee-9593-406d-8bf8-a6b43aaad619",
-    "show_title": "WEATHER ARCHIVE",
-    "artist_name": "Idris Mbaye",
+    "id": "a4d85662-92f2-40fa-94ef-4fc0632adf18",
+    "show_title": "PBJ TIME",
+    "artist_name": "Peanut Butter Jelly Crew",
     "time_str": "20:00 - 21:00 CET",
-    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/fec74ee3-7bad-46b5-9f02-2e7f1ce743b8/2026-11-26T08:10:44.078Z-1024x1024.jpg",
-    "start_iso": "2026-11-26T20:00:00+01:00",
-    "end_iso": "2026-11-26T21:00:00+01:00",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/523a6736-7a1a-49ee-9dd5-b771f385f125/2026-11-23T08:16:43.956Z-1024x1024.jpg",
+    "start_iso": "2026-11-27T20:00:00+01:00",
+    "end_iso": "2026-11-27T21:00:00+01:00",
     "image_filename": "story_2000.png"
+  },
+  {
+    "id": "3dfafbd7-aa8f-40c8-a192-6c309ff82981",
+    "show_title": "LOST IN SOUNDSCAPE",
+    "artist_name": "Treaz aka 3AZ",
+    "time_str": "21:00 - 22:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8d3b08f1-2c48-48aa-af69-c03fcef08555/2026-11-22T17:40:42.757Z-1024x1024.jpg",
+    "start_iso": "2026-11-27T21:00:00+01:00",
+    "end_iso": "2026-11-27T22:00:00+01:00",
+    "image_filename": "story_2100.png"
+  },
+  {
+    "id": "385f8590-5f2a-40a0-9e5e-10958ea4836f",
+    "show_title": "AFTER SYID",
+    "artist_name": "Syid",
+    "time_str": "23:00 - 00:00 CET",
+    "artwork_url": "https://d4mt18vwj73wk.cloudfront.net/artistImage/rough-radio-9a2b1da0/8aa74789-63eb-4a30-8a58-c13b6c458819/2026-09-22T17:46:59.120Z-1024x1024.jpg",
+    "start_iso": "2026-11-27T23:00:00+01:00",
+    "end_iso": "2026-11-28T00:00:00+01:00",
+    "image_filename": "story_2300.png"
   }
 ]
